@@ -9,7 +9,7 @@ The problem at our hand is to evaluate multiple algorithms on the same dataset, 
 Unfortunately, python code by default runs as a single process on a single core. Fortunately, it is possible to easily make your code run parallelly and exploit all your CPU cores using the in-built multiprocessing module. Let us now get down to the code and see how things work.
 Use them all! (Image Source:Vindictus)Assume we already have our train and test data split and ready to be used just as in the regular machine learning pipeline. We also have a function find_rmse(reg) that takes in a regression algorithm function of sklearn and uses it to train and then subsequently test on the datasets and deliver the mean root mean squared error we obtained. The problem is a supervised regression problem and we want to see the results of four algorithms, namely, Random Forests, nuSVM, Ridge Regression and ElasticNet on the same dataset.
 
-```
+```python
 def find_rmse(reg):
    
     df_train = pd.read_csv('/independent_train.txt', header=None)
@@ -33,7 +33,7 @@ def find_rmse(reg):
 
 First, we will import the Pool function from the multiprocessing module. The Pool object offers a convenient means of parallelizing the execution of a function across multiple input values, distributing the input data across processes. It takes one argument, which is equal to the number of worker processes you want to spawn. You can keep this equal to the number of cores in your CPU for maximum utilization. Bear in mind, however, that since all of them will mostly be used by this python program, you might not be able to do another processor heavy work on your system while the program executes.
 
-```
+```python
 from multiprocessing import Pool
 ```
 
@@ -43,13 +43,13 @@ Then let us create a list of the regressors we want to compare our results on. O
 
 Now, let us map our function that calculates the rmse after training the model using a regressor and testing it, to our list of regressors. This will pass these list of regressor functions to our parent function find_rmse(reg) parallelly!
 
-```
+```python
 pool.map(find_rmse,regressors_list)
 ```
 
 Finally, let us bury the remains of our Pool object.
 
-```
+```python
 pool.close()
 pool.join()
 ```
