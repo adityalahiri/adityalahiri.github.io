@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 My learnings as a Data Science Intern at Atlan.
 
