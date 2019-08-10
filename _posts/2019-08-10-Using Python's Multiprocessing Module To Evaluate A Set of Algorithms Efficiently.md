@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Use all your cores, now!
+Use all your cores, now!
 
 Sometimes, your first intuition after seeing a dataset is to think of more than one algorithm that would probably work well on it. You would then naturally want to try them all out and see how they fare against one another on the baseline results. But there's one factor that always makes you rethink that decision. The factor of time. So, how do we get around it? Let us try multiprocessing.
 A process is a unit of work in your computer. In terms of python, you can think of a process to be an instance of a program (e.g. Jupyter notebook, Python interpreter, a standalone script). Your operating system is capable of running multiple processes at a time and you can map processes to the number of cores you have in your system. If you have multiple cores, which you most likely do, you can run more than one process parallelly at the same time on different cores.
