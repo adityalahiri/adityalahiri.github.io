@@ -14,9 +14,12 @@ There were some issues that needed attention. First, there were phone numbers of
 ## 3. Setting up FastText
 Let us now move onto the big guy. Getting Facebook's FastText set up is a piece of cake. All you need is a modern C++ compiler (C++ 11) followed by a make command. FastText is written in pure C++ which is another reason for its insanely quick implementation.
 a. Go to https://github.com/facebookresearch/fastText and clone the repo.
+
 b. Switch to the downloaded directory and type make command on your terminal
+
 c. Voila! FastText is ready to use.
-4. Using FastText on our Data
+
+## 4. Using FastText on our Data
 We shall now use the fasttext library to generate word vectors for our cleaned data. To do so, open up your terminal in the fasttext directory and type-
 '''./fasttext skipgram -input ldc_clean.txt -output model'''
 Let me break down that statement down for you.
@@ -24,6 +27,7 @@ Let me break down that statement down for you.
 skigram - There are two popular methods to generate vector representations of words. CBOW and Skipgram. We choose skipgram here.
 -input ldc_clean.txt - We specify as the input argument our file name that contains text data.
 -output model - This specifies the name with which FastText will generate our two output files. model.vec is a text file containing the word vectors, one per line. model.bin is a binary file containing the parameters of the model along with the dictionary and all hyper parameters
+
 ## 5. Setting up python lists from the generated model.vec
 We now have our words and vectors in a .vec file but in order to plot them and also to perform SVD on the vectors, we need to convert the words to a list and the corresponding vectors to another list. Along the way, we also need to convert vector values from string to numpy's float32 type to allow the above said operations.
 
