@@ -13,6 +13,7 @@ There were some issues that needed attention. First, there were phone numbers of
 
 ## 3. Setting up FastText
 Let us now move onto the big guy. Getting Facebook's FastText set up is a piece of cake. All you need is a modern C++ compiler (C++ 11) followed by a make command. FastText is written in pure C++ which is another reason for its insanely quick implementation.
+
 a. Go to https://github.com/facebookresearch/fastText and clone the repo.
 
 b. Switch to the downloaded directory and type make command on your terminal
