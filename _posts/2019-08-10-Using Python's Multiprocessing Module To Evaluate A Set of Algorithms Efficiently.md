@@ -33,7 +33,9 @@ def find_rmse(reg):
 
 First, we will import the Pool function from the multiprocessing module. The Pool object offers a convenient means of parallelizing the execution of a function across multiple input values, distributing the input data across processes. It takes one argument, which is equal to the number of worker processes you want to spawn. You can keep this equal to the number of cores in your CPU for maximum utilization. Bear in mind, however, that since all of them will mostly be used by this python program, you might not be able to do another processor heavy work on your system while the program executes.
 
-
+```
+from multiprocessing import Pool
+```
 
 Then let us create a list of the regressors we want to compare our results on. Our work is very convenient since python can take functions as arguments for functions.
 
@@ -41,10 +43,15 @@ Then let us create a list of the regressors we want to compare our results on. O
 
 Now, let us map our function that calculates the rmse after training the model using a regressor and testing it, to our list of regressors. This will pass these list of regressor functions to our parent function find_rmse(reg) parallelly!
 
-
+```
+pool.map(find_rmse,regressors_list)
+```
 
 Finally, let us bury the remains of our Pool object.
 
-
+```
+pool.close()
+pool.join()
+```
 
 Voila! We just substantially minimized the time that we would have needed to compare so many regression algorithms. If you do this at scale, which I am currently doing as a part of my research project, it is a difference of days and months that we are talking about. I have a system with 64 CPU cores and using them all helps me achieve this exponentially quicker. But without using this technique, those 64 cores would have just gone to waste. Even your personal machine would usually have >4 cores so you can use this technique to get a substantial speed up as well. Have a happy time parallelizing your learning!
