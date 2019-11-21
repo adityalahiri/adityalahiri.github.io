@@ -21,13 +21,13 @@ During my time at BITS, I got started with Machine Learning and Data Science. Wh
 In the summer of 2019, I interned at a startup called Atlan as a Data Scientist. I learnt more that summer than I'd learn in a year. The place was insanely fast paced, motivated and challenging. I built a couple of cool things during my time there. 
 
 
-[!Atlan](/images/atlan.jpg)
+![Atlan](/images/atlan.jpg)
 
 > My First Day at Atlan!
 
 After that, I headed over to American Express, AI Labs for a Six Month internship. I was a Research Engineering intern in the Machine Learning and Optimization group. My work involved research and development. I also learnt about the workings of Multi National Organisations and the different challenges that work on such a scale presents.
 
-[!AXP](/images/amex.jpg)
+![AXP](/images/amex.jpg)
 
 > My Amex workplace!
 
