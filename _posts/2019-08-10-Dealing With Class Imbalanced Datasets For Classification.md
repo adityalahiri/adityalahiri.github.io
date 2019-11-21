@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-Skewed datasets are not uncommon. And they are tough to handle. 
+*Skewed datasets are not uncommon. And they are tough to handle.*
 
 Usual classification models and techniques often fail miserably when presented with such a problem. Although your model could get you to even a 99% accuracy on such cases, yet, if you are measuring yourself against a sensible metric such as the ROC Auc score, then you will face trouble getting up that leaderboard. This is because if the dataset is skewed, for example, a 10:1 ratio of Positives to Negatives occur, then by just predicting positives for every sample you see without any learning, you can get to a 90% accuracy score! So, how do we get around this problem? This post will highlight a few effective techniques you can use to do well on such tasks. The techniques range from differently sampling your data to setting some hyperparameters cleverly to using libraries that contain different versions of the usual algorithms which internally handle imbalance themselves.
 ##Sampling
