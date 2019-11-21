@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-My learnings as a Data Science Intern at Atlan.
+*My learnings as a Data Science Intern at Atlan.*
 
 Around two months prior to writing this post, I was an undergraduate student who had a keen interest in machine learning and data science broadly, with a few interesting personal projects under my belt. But during that duration, I interned in a data science role at a data intelligence company called SocialCops. It has been one of the steepest learning curves of my life and has helped me learn the intricacies of full-fledged data-driven projects and the functionalities and essence of data teams. Here are some of my key takeaways which I could never have obtained through another online course or a solo pet project. I hope they will help others like me when they go in for their first data science job -
 
