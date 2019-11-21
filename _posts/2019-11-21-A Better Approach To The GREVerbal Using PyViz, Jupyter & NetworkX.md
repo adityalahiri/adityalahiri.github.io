@@ -1,7 +1,8 @@
 ---
 published: true
 ---
-### A Better Approach To The GREVerbal Using PyViz, Jupyter & NetworkX.
+
+*A Better Approach To The GREVerbal Using PyViz, Jupyter & NetworkX.*
 
 
 ![The GreVisualizer](/images/gre_ft.PNG)
