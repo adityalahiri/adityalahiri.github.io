@@ -56,7 +56,7 @@ h2 {
 }
 
 h3 {
-  font-size: 10px;
+  font-size: 5px;
 }
 
 h4 {
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $black;
+  color: $gray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $gray;
+    color: $black;
   }
 }
 
