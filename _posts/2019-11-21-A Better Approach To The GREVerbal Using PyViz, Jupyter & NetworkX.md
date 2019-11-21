@@ -2,7 +2,7 @@
 published: true
 ---
 
-*A Better Approach To The GREVerbal Using PyViz, Jupyter & NetworkX.*
+*Bye Bye boring excel sheets, hello interactive colorful networks!*
 
 
 ![The GreVisualizer](/images/gre_ft.PNG)
