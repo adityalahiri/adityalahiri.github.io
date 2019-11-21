@@ -50,3 +50,5 @@ The other was when I invited the co-founder of Stack Overflow, Mr. Joel Spolsky 
 I like to read A LOT. Hence, the books section on top of this page.
 I also workout, run, and learn boxing. 
 If you are in, then I am always up for a cold beer or a strong espresso :smiles:
+
+I also write about my general life experiences at [Odes And Codes](https://odesandcodes.wordpress.com/).
