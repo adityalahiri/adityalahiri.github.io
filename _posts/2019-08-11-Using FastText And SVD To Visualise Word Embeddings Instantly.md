@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-Man->King. Woman->Queen. (?!)
+*Man->King. Woman->Queen. (?!)*
 
 When I began with the basics of Natural Language Processing a while back, I was fascinated by the way in which words were represented as vectors. Even more enthralling was words being plotted on a graph with those having similar meaning and context grouped together. So, I struggled with generating my own embedding and it was a " struggle " because of the lack of computation power I had. Word2Vec for generating vectors and T-SNE for visualising were popular choices but took a lot of time with the resources I had.
 Well, that has not changed till now. However, I came across Facebook's fasttext that blew me away. It takes seconds to do things which used to take hours earlier with almost same performance results. In addition to that, I used some linear algebra to find out the way which is perhaps the " fastest " to generate your own word embedding visualisations. Let's dive right into the process now and write some code.
