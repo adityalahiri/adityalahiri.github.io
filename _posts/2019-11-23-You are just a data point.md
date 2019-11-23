@@ -2,7 +2,7 @@
 published: true
 ---
 
-*You are just a data point.*
+
 
 ![Datapoint](/images/datapoint.PNG)
 
