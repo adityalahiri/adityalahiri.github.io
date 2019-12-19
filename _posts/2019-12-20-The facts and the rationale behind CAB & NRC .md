@@ -2,14 +2,19 @@
 published: false
 ---
 # What does the Citizenship Amendement Bill state? 
+
+| ![space-1.jpg](/images/regions.PNG) | 
+|:--:| 
+| *The Stakeholders* |
+
 It amended the Citizenship Act of 1955 by providing a path to Indian citizenship for Hindu, Sikh, Buddhist, Jain, Parsi, and Christian religious minorities from the neighboring Muslim majority countries of Pakistan, Bangladesh and Afghanistan.
+
 
 # The basic reason for conflict?
 For a country that prides itself as the world's largest secular nation, this is the first time religion has been used as a criterion for citizenship under Indian law.
 
 # What is the Government's rationale?
-India is kind enough to help the "minorities" of its neighbouring nations and wants to welcome them to prevent them from facing religious persecution in their own nations. 
-According to the government, Pakistan, Afghanistan and Bangladesh are "Muslim-majority countries" where Islam has been declared as the official state religion through constitutional amendments in recent decades, and therefore Muslims in these Islamic countries are "unlikely to face religious persecution" and cannot be "treated as persecuted minorities". Hence, they are not welcome. 
+India welcomes the "minorities" of its neighbouring nations and wants to safeguard them from facing religious persecution in their own nations.  However for Muslims, the Government believes that since Pakistan, Afghanistan and Bangladesh are "Muslim-majority countries" where Islam has been declared as the official state religion through constitutional amendments in recent decades, therefore Muslims in these Islamic countries are "unlikely to face religious persecution" and cannot be "treated as persecuted minorities". Hence, they are not welcome. 
 
 # Why are people in Assam and the North East protesting?
 
