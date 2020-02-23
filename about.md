@@ -26,6 +26,7 @@ In the summer of 2019, I interned at a startup called Atlan as a Data Scientist.
 > My First Day at Atlan!
 
 After that, I headed over to American Express, AI Labs for a Six Month internship. I was a Research Engineering intern in the Machine Learning and Optimization group. My work involved research and development on the ubiquitous Machine Learning algorithm, XGBoost. I also learnt about the workings of Multi National Organisations and the different challenges that work on such a scale presents.
+I currently work at American Express, AI Labs as a Research Engineer. I am continuing my work on XGBoost and doing research in the field of Machine Learning explainability. I joined as a full time employee on 20/1/2020!
 
 ![AXP](/images/amex.jpg)
 
