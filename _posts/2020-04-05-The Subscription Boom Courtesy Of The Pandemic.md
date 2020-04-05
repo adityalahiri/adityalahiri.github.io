@@ -13,7 +13,7 @@ based applications in particular have started giving out free content during thi
 Some of these have been really helpful for me. And I can see myself subscribing to them even after the free period ends, which we
 all hope ends fast. So, here's a quick list!
 
-1. Blinkist
+## 1. Blinkist
 
 Blinkist takes books and converts them into 15-20 minute long blinks. Blinks carry the key ideas of the book and are narrated
 by a human instead of a bot. They also have their own original content which is kind of like podcasts and are of very high quality.
@@ -22,21 +22,21 @@ they have given me a full membership till end of April. And the content is just 
 non fiction. If I like the blinks a lot, I will buy the books later and read them in their entirety. I consume it while running or while
 on a walk. Try it out for yourself!
 
-2. Headspace
+## 2. Headspace
 
 I have been a headspace user for years now. What started out in college, has thankfully stuck and become a habit. It is an app for guided
 meditation. I am a subscribed user but they have now made some of their content free. The earlier free model just gave a new everyday headspace
 daily. Now, you have access to packs like "Weathering the storm" which will help you meditate your way through these tough times. Stay patient
 with it if its your first time!
 
-3. Pluralsight
+## 3. Pluralsight
 
 Pluralsight is a MOOC platform like Coursera. However, it is more industry oriented and contains very short 4-5 hour courses as well of
 essential topics. And guess what, all of their content is free for April.  I have always wanted to learn Bash scripting well and I took up 
 a 4 hour intermediate bash course from Pluralsight for free. I really like it! There's a number of things you can learn and the UI/UX of
 the platform is a league above others!
 
-4. Dineout
+## 4. Dineout
 
 This is not exactly similar to others listed here. But, it is worth a mention. Dineout is a Zomato like application, that helps
 you get special discounts in partner restaurants. Now during these testing times of lockdowns, restaurants are closed and waiters are 
