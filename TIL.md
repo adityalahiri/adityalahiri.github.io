@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 11/4/20
+
+* Went through [Stanford's Karel Bot](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html)which used to teach Intro to programming at Stanford. So neat!
+
 ## 10/4/20
 
 * If stuck between too many little fixes, just start all over again! Far more efficient.
