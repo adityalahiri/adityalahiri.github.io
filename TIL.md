@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 12/4/20
+
+* Read this [new paper](https://arxiv.org/abs/2002.11097) that highlights the problems in using Shapely values for feature attribution.
+* Got mind blown by Microsoft's Power Point's [enhanced design recommendations](https://www.microsoft.com/en-us/microsoft-365/blog/2019/06/18/powerpoint-ai-upgrade-designer-major-milestone-1-billion-slides/)!
+
 ## 11/4/20
 
 * Went through [Stanford's Karel Bot](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html)which used to teach Intro to programming at Stanford. So neat!
