@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 13/4/20
+
+* Ctrl+Shift+P and then clear cell output to clear the output of a current Jupyter cell
+* Found this [spelling correction library](https://github.com/wolfgarbe/SymSpell)
+
 ## 12/4/20
 
 * Read this [new paper](https://arxiv.org/abs/2002.11097) that highlights the problems in using Shapely values for feature attribution.
