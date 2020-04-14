@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 14/4/20
+
+* Realized that I should brush up on SQL and not resort to doing everything via pandas.
+* Found this new pandas function to stack columns down. [pd.stack](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.stack.html)
+
 ## 13/4/20
 
 * Ctrl+Shift+P and then clear cell output to clear the output of a current Jupyter cell
