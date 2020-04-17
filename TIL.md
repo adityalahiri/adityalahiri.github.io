@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 17/4/20
+
+* Used Multioutput classification for the first time
+
 ## 16/4/20
 
 * Used tf-idf irl for first time.
