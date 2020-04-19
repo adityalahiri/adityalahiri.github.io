@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 19/4/20
+
+* Discovered [LALE](https://github.com/IBM/lale) library by IBM for semi automated Data Science workflow.
+* Read Chapter 1 of the [Causal Reasoning Book](https://causalinference.gitlab.io/causal-reasoning-book-chapter1/). Coming to this after reading The Book Of Why and wanting a more machine learning oriented resource. Aim to use Causal Reasoning as aid to Machine Learning Interpretability.
+
 ## 18/4/20
 
 * N/A
