@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 20/4/20
+
+* Symlinks! Used Symlink in [Jupyter](https://cyberhelp.sesync.org/faq/how-to-create-a-symlink-to-research-directory-in-Jupyter-lab.html) to get another folder in sidebar to access files on server. So, neat!
+* Learnt why people simply do not use one hot econding instead of embeddings in text models -> High dimensionality!
+
 ## 19/4/20
 
 * Discovered [LALE](https://github.com/IBM/lale) library by IBM for semi automated Data Science workflow.
