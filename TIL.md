@@ -1,6 +1,12 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 21/4/20
+
+* [Setup remote local sftp on Sublime](https://medium.com/@daniwhkim/remote-ftp-sftp-with-sublime-de7d71a2b400). Life gets simpler!
+* Wrote the first functional test of my life. Hard work!
+
+
 ## 20/4/20
 
 * Symlinks! Used Symlink in [Jupyter](https://cyberhelp.sesync.org/faq/how-to-create-a-symlink-to-research-directory-in-Jupyter-lab.html) to get another folder in sidebar to access files on server. So, neat!
