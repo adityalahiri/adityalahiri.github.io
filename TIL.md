@@ -1,10 +1,19 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 23/4/20
+
+* 
+
 ## 22/4/20
 
 * Used Solr for the first time.
 * Made changes inside a library's code which makes me wonder how 99% of work is understanding the code and 1% is adding your stuff in it.
+
+## 22/4/20
+
+* Used "Convert to Smart Art" in powerpoint for first time. Handy life hack!
+* Reminder that PCA is deterministic as no parameters.
 
 ## 21/4/20
 
