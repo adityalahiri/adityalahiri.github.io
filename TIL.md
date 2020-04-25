@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 24/4/20
+
+* Used [Count Vectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html) for the first time. And understood it.(Two very different things!)
+* Started with [this Adv NLP with SpaCy](https://course.spacy.io/) interactive course!
+
 ## 23/4/20
 
 * Used "Convert to Smart Art" in powerpoint for first time. Handy life hack!
