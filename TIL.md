@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 26/4/20
+
+* [Chapter 2](https://course.spacy.io/en/chapter2) of the Advanced NLP with SpaCy course.
+* The importance of constraints while working on a problem. Read [How can Data Scientists survive layoffs?](https://peadarcoyle.com/2020/04/26/how-can-data-scientists-survive-layoffs/)
+
 ## 25/4/20
 
 * N/A
