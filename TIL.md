@@ -1,6 +1,12 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 27/4/20
+
+* Famous papers have shady experiments and even shadier implementations.
+* Simply used nlp("Sentence...").vector in SpaCy to get consistent dimensions embeddings for any sentence!
+* Learnt that [sklearn does a linear normalization](https://stats.stackexchange.com/questions/374913/summing-predicted-probabilities-from-logistic-regression-using-one-vs-rest) (not softmax!) of all output probabilites
+
 ## 26/4/20
 
 * [Chapter 2](https://course.spacy.io/en/chapter2) of the Advanced NLP with SpaCy course.
