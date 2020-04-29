@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 28/4/20
+
+* Send one hot labels in OneVsRest to make it multi label.
+
 ## 27/4/20
 
 * Famous papers have shady experiments and even shadier implementations.
