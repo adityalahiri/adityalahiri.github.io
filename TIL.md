@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 29/4/20
+
+* Finally used ravel() in real life.
+* Get only idf from tfidf vectorizer in sklearn using _idf attribute
+
 ## 28/4/20
 
 * Send one hot labels in OneVsRest to make it multi label.
