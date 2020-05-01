@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 1/5/20
+
+* N/A
+
 ## 30/4/20
 
 * [Easy progress bar for any pandas apply operation](https://stackoverflow.com/questions/18603270/progress-indicator-during-pandas-operations). Anxiety Saver!
