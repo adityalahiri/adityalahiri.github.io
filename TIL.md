@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 3/5/20
+
+* [Passing variable into bash(!)](https://stackoverflow.com/questions/35497069/passing-ipython-variables-as-arguments-to-bash-commands) command in Jupyter.
+
 ## 2/5/20
 
 * N/A
