@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 4/5/20
+
+* Listened to [this Self Explaining AI discussion](https://podcasts.google.com/?feed=aHR0cHM6Ly9kYXRhc2tlcHRpYy5saWJzeW4uY29tL3Jzcw&ep=14&episode=OWI2NDY2MjgtNTllZC00YjU1LTg4MTUtZjVhMWNiZGJjNzdm). Very interesting idea.
+
+
 ## 3/5/20
 
 * [Passing variable into bash(!)](https://stackoverflow.com/questions/35497069/passing-ipython-variables-as-arguments-to-bash-commands) command in Jupyter.
