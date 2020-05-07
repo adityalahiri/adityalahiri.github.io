@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 6/5/20
+
+* Learnt about [literal_eval](https://kite.com/python/docs/ast.literal_eval) in python for interpreting and parsing strings as python commands!
+* Used [fuzzyset](https://pypi.org/project/fuzzyset/) for the first time.
+
 ## 5/5/20
 
 * N/A
