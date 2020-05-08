@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 7/5/20
+
+* Came across this new time zone called Anywhere On Earth, which is the most lagging time zone, ie, everyhwere else the day is completed before this time zone completes their day!
+
 ## 6/5/20
 
 * Learnt about [literal_eval](https://kite.com/python/docs/ast.literal_eval) in python for interpreting and parsing strings as python commands!
