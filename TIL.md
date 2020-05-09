@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 9/5/20
+
+* Attented Milind Tambe's (Google Research, AI For Good) webinar to learn about their projects. Super interesting problems!
+
 ## 8/5/20
 
 * Submitted my first paper abstract!
