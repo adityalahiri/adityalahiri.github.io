@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 10/5/20
+
+* Went through the [Pytorch 60 minutes blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
+
 ## 9/5/20
 
 * Attented Milind Tambe's (Google Research, AI For Good) webinar to learn about their projects. Super interesting problems!
