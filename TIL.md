@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 12/5/20
+
+* To insert a dict into sql table, best way for now seems to be putting in a string and then use ast literal eval after retreiving it.
+
 ## 11/5/20
 
 * Came across text matching using deep learning library called [deepmatcher](https://github.com/anhaidgroup/deepmatcher)
