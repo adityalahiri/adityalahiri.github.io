@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 13/5/20
+
+* Started learning about active learning with [this introductory article at DataCamp.](https://www.datacamp.com/community/tutorials/active-learning)
+* Came across this active learning library called [AlpacaTag](https://github.com/INK-USC/AlpacaTag) which allows UI based annotation too
+
 ## 12/5/20
 
 * To insert a dict into sql table, best way for now seems to be putting in a string and then use ast literal eval after retreiving it.
