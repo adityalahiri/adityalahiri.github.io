@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 14/5/20
+
+* Use %env magic command in jupyter to set environment variables.
+
+
 ## 13/5/20
 
 * Started learning about active learning with [this introductory article at DataCamp.](https://www.datacamp.com/community/tutorials/active-learning)
