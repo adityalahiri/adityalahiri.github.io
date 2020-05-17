@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 17/5/20
+
+* Started reading [this article](https://compstat-lmu.github.io/iml_methods_limitations/lime-sample.html) on sampling in LIME.
+
 ## 16/5/20
 
 * N/A
