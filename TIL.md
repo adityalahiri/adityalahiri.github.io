@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 19/5/20
+
+* Used BibTex for the first time to put in references!
+
 ## 18/5/20
 
 *  Realizing that making algorithms parallelized has become a neccessity to run on today's huge scaled data.
