@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 20/5/20
+
+* Came across these design ideas from [Polytopal](https://linguafranca.polytopal.ai/) realted to AI to make better AI systems for the end consumer.
+
 ## 19/5/20
 
 * Used BibTex for the first time to put in references!
