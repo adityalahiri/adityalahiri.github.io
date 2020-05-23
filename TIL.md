@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 23/5/20
+
+* Came across [this library](https://github.com/privacytrustlab/ml_privacy_meter) to test how privacy preserving your ML models are.
+
+## 22/5/20
+
+*  Googled for hours figuring out relative imports in python. Crazy! Do not do relative imports please.
+
 ## 21/5/20
 
 * N/A
