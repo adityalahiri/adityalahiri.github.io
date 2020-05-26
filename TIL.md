@@ -1,6 +1,12 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 25/5/20
+
+* Read about [Model Inversion](https://www.cs.toronto.edu/~toni/Courses/Fairness/Lectures/ML-and-DP-v2.pdf).
+* Went through [Spacy's Dependency Parser](https://spacy.io/api/dependencyparser).
+* Came across a python library for plotting PDP and ICE plots, called [PDPBox](https://github.com/SauceCat/PDPbox)
+
 ## 24/5/20
 
 * N/A
