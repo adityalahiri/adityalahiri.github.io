@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 27/5/20
+
+* N/A
+
 ## 26/5/20
 
 * Learnt the [difference](https://stackoverflow.com/questions/44091886/whats-the-difference-between-virtualenv-and-m-venv-in-creating-virtual-env/44091914) between venv and virtualenv.
