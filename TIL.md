@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 28/5/20
+
+* Used df to sql for first time. Intricate
+
 ## 27/5/20
 
 * N/A
