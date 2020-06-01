@@ -5,7 +5,7 @@ A daily log of little things I learn pertaining to Computer Science and AI/ML.
 
 * Recalled that in C++, dot works on objects; arrow works on pointers to objects. Use -> when you have a pointer. Use . when you have structure (class).
 
-* Started [this](!https://www.coursera.org/learn/data-science-streamlit-python/home/welcome) coursera guided project to learn quick web deployment of interactive data using Streamlit in Python
+* Started [this](https://www.coursera.org/learn/data-science-streamlit-python/home/welcome) coursera guided project to learn quick web deployment of interactive data using Streamlit in Python
 
 ## 31/5/20
 
