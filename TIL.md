@@ -1,6 +1,12 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 2/6/20
+
+* Attended [paper presentation](https://openreview.net/pdf?id=r1xMH1BtvB) of [Electra](https://github.com/google-research/electra) NLP Pre-Training by Google Research. One-ups BERT by using Generator + Discriminator in encoder instead of just Generator.
+
+* Started working on [Interactive Interpretability app using Streamlit](https://github.com/arrayslayer/interactive-explainability).
+
 ## 1/6/20
 
 * Recalled that in C++, dot works on objects; arrow works on pointers to objects. Use -> when you have a pointer. Use . when you have structure (class).
