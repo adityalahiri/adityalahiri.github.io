@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 3/6/20
+
+* Realised the importance of consistent coding practice like sticking with either camel case or underscores. Mixture of both leads to hell.
+
 ## 2/6/20
 
 * Attended [paper presentation](https://openreview.net/pdf?id=r1xMH1BtvB) of [Electra](https://github.com/google-research/electra) NLP Pre-Training by Google Research. One-ups BERT by using Generator + Discriminator in encoder instead of just Generator.
