@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 4/6/20
+
+* N/A
+
 ## 3/6/20
 
 * Realised the importance of consistent coding practice like sticking with either camel case or underscores. Mixture of both leads to hell.
