@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 7/6/20
+
+* Used python eval() to just run a command when given a raw string! Deadly!
+* Used getattr in python to run a function using its string name
+
 ## 6/6/20
 
 * Learnt about ini files and [parsing them in python](https://docs.python.org/3/library/configparser.html).
