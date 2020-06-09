@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 9/6/20
+
+* ls -lah to get list of files with size in human readable format.
+* Used argparse for the first time
+
 ## 8/6/20
 
 * N/A
