@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 8/6/20
+
+* N/A
+
 ## 7/6/20
 
 * Used python eval() to just run a command when given a raw string! Deadly!
