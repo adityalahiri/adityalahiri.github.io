@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 10/6/20
+
+* Completed initial build of streamlit app to explore explainability methods interactively.
+
 ## 9/6/20
 
 * ls -lah to get list of files with size in human readable format.
