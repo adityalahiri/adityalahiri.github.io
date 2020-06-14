@@ -1,6 +1,18 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 13/6/20
+
+* N/A
+
+## 12/6/20
+
+* N/A
+
+## 11/6/20
+
+* Spending time in explaining your work with simple diagrams is necessary if you want people to use it.
+
 ## 10/6/20
 
 * Completed initial build of streamlit app to explore explainability methods interactively.
