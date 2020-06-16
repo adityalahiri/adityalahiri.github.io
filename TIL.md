@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 15/6/20
+
+* Attended a webinar on model drift and model monitoring.
+
+## 14/6/20
+
+* Solved a few algorithmic problems. Minimize max absolute difference in a triplet using 2 pointer was good!
+
 ## 13/6/20
 
 * N/A
