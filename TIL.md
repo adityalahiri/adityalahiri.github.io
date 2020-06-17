@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 17/6/20
+
+* Attended a paper presentation on [Faster Boosting with Smaller Memory](https://papers.nips.cc/paper/9314-faster-boosting-with-smaller-memory.pdf). Faster and accurate boosting algorithm for datasets that do not fit in memory.
+
 ## 16/6/20
 
 * Learnt that LD_LIBRARY_PATH environment variable is used to set paths for shared libraries.
