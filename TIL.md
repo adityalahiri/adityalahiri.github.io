@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 16/6/20
+
+* Learnt that LD_LIBRARY_PATH environment variable is used to set paths for shared libraries.
+
 ## 15/6/20
 
 * Attended a webinar on model drift and model monitoring.
