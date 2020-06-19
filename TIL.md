@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 19/6/20
+
+* Revisited inner join
+* Learning the that sometimes sharing your work and convincing people to use it is as difficult as creating the work.
+
 ## 18/6/20
 
 * Used iMovie to create a tool demo video! Super cool.
