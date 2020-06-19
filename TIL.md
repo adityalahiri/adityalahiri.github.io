@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 18/6/20
+
+* Used iMovie to create a tool demo video! Super cool.
+
 ## 17/6/20
 
 * Attended a paper presentation on [Faster Boosting with Smaller Memory](https://papers.nips.cc/paper/9314-faster-boosting-with-smaller-memory.pdf). Faster and accurate boosting algorithm for datasets that do not fit in memory.
