@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 21/6/20
+
+* Went through the paper [UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION](https://bengio.abracadoudou.com/cv/publications/pdf/zhang_2017_iclr.pdf). Very good and eloquent paper on how we need to re-think how regularisation affects generalisation.
+* Listened to a podcast on Rust. Want to explore more on using Rust for ML frameworks.
+
 ## 20/6/20
 
 * N/A
