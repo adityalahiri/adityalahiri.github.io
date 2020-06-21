@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 20/6/20
+
+* N/A
+
 ## 19/6/20
 
 * Revisited inner join
