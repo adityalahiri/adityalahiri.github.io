@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 23/6/20
+
+* Used the AllenNLP package for the first time for a Symantic Role Labelling task.
+
 ## 22/6/20
 
 * Installed PyCharm IDE. Trying out IDEs instead of simple text editors. Let's see how I like it!
