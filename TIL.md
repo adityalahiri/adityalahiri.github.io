@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 25/6/20
+
+* Learnt about the *isinstance* function in Python to check data types
+
 ## 24/6/20
 
 * Exploring ties of model explainability with model drift.
