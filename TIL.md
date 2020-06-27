@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 26/6/20
+
+* Found this new Python feature in latest release that allows merging of dictionaries using |. Super cool!
+
 ## 25/6/20
 
 * Learnt about the *isinstance* function in Python to check data types
