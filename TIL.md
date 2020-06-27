@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 27/6/20
+
+* Used the DMatrix format directly for the first time to score using a XGBoost model.
+
 ## 26/6/20
 
 * Found this new Python feature in latest release that allows merging of dictionaries using |. Super cool!
