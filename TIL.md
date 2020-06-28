@@ -1,13 +1,17 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 28/6/20
+
+* When starting working with another team, be very iterative. Ask for things that can make the work faster for you shamelessly. And get out some results fast. It is not necessary for those results to be great or perfect. We want both sides to be interested and to help the iterations improve.
+
 ## 27/6/20
 
 * Used the DMatrix format directly for the first time to score using a XGBoost model.
 
 ## 26/6/20
 
-* Found this new Python feature in latest release that allows merging of dictionaries using |. Super cool!
+* Found this new Python feature in latest release that allows merging of dictionaries using the single vertical bar operator. Super cool!
 
 ## 25/6/20
 
