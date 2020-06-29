@@ -1,6 +1,12 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 29/6/20
+
+* In bash, don't go for beautiful code styling and put a space on either side of =. It is not assignment anymore!
+* In bash, if you want to run a command given in string, put it inside ` and not '.
+* Saw [this amazing video](https://www.youtube.com/watch?v=43sjym5ZS68) of the story of Craig Federighi, Senior VP of SWE At Apple.
+
 ## 28/6/20
 
 * When starting working with another team, be very iterative. Ask for things that can make the work faster for you shamelessly. And get out some results fast. It is not necessary for those results to be great or perfect. We want both sides to be interested and to help the iterations improve.
