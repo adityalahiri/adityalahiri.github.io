@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 30/6/20
+
+* N/A
+
 ## 29/6/20
 
 * In bash, don't go for beautiful code styling and put a space on either side of =. It is not assignment anymore!
