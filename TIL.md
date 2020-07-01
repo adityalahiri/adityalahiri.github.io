@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 1/7/20
+
+* Looked at how to write unit tests in python using unittest.mock module
+
 ## 30/6/20
 
 * N/A
