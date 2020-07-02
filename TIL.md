@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 2/7/20
+
+* Received my first paper acceptance!!! A new model explainability method. Accepted at KDD workshop on ML In Finance!
+* Attended a webinar on Responsible AI by Fiddler.Ai.
+
 ## 1/7/20
 
 * Looked at how to write unit tests in python using unittest.mock module
