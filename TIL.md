@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 3/7/20
+
+* Learnt about the @classmethod decorator in python. This creates a method that belongs to the class and not to a specific object of the class.
+
 ## 2/7/20
 
 * Received my first paper acceptance!!! A new model explainability method. Accepted at KDD workshop on ML In Finance!
