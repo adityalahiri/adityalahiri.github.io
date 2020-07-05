@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 4/7/20
+
+* N/A
+
 ## 3/7/20
 
 * Learnt about the @classmethod decorator in python. This creates a method that belongs to the class and not to a specific object of the class.
