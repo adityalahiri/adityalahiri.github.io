@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 5/7/20
+
+* Looked at a few ways/repos to do testing/verification in ML and DL models. Super interesting!
+
 ## 4/7/20
 
 * N/A
