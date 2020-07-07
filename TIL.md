@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 7/7/20
+
+* Started looking at some algorithmic problems!
+
 ## 6/7/20
 
 * Planned the next 6 months overview for a project. It is difficult to think and plan and create a realistic and challenging roadmap for projects. Will get better at it with time and experience!
