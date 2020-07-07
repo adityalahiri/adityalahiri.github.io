@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 6/7/20
+
+* Planned the next 6 months overview for a project. It is difficult to think and plan and create a realistic and challenging roadmap for projects. Will get better at it with time and experience!
+
 ## 5/7/20
 
 * Looked at a few ways/repos to do testing/verification in ML and DL models. Super interesting!
