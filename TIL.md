@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 9/7/20
+
+* Adding custom edge cases is important but with extensible code!
+
+## 8/7/20
+
+* NA
+
 ## 7/7/20
 
 * Started looking at some algorithmic problems!
