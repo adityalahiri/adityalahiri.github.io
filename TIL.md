@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 12/7/20
+
+* Attended a few expos at ICML '20. Learnt about CLAI, IMBX360, NormLine and other things!
+
+## 11/7/20
+
+* N/A
+
 ## 10/7/20
 
 * Read this paper on testing in NLP. [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)
