@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 13/7/20
+
+* Attended a tutorial on Representation Learning at ICML '20. Model monitoring and Representation Learning are the two areas I want to learn more about this year!
+
 ## 12/7/20
 
 * Attended a few expos at ICML '20. Learnt about CLAI, IMBX360, NormLine and other things!
