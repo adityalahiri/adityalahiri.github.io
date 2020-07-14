@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 14/7/20
+
+* Starting a project on a use case wherein the work is to design a product around the use case! Excited for this product driven kind of work after a dab at research front!
+
 ## 13/7/20
 
 * Attended a tutorial on Representation Learning at ICML '20. Model monitoring and Representation Learning are the two areas I want to learn more about this year!
