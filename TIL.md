@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 15/7/20
+
+* Went through [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf) paper in ICML'20 wherein they publish a new explainability method which is more robust.
+
 ## 14/7/20
 
 * Starting a project on a use case wherein the work is to design a product around the use case! Excited for this product driven kind of work after a dab at research front!
