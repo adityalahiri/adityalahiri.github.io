@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 16/7/20
+
+* Came across regex101.com to create programmatic custom regexes in multiple languages easily!
+
 ## 15/7/20
 
 * Went through [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf) paper in ICML'20 wherein they publish a new explainability method which is more robust.
