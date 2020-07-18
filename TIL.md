@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 18/7/20
+
+* Created a binary tree using Level Order in Python for the first time!
+
 ## 17/7/20
 
 * Attended a talk by Scott Lundberg where he discusses explaininng tree models using SHAP in ICML '220
