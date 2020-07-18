@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 17/7/20
+
+* Attended a talk by Scott Lundberg where he discusses explaininng tree models using SHAP in ICML '220
+
 ## 16/7/20
 
 * Came across regex101.com to create programmatic custom regexes in multiple languages easily!
