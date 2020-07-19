@@ -3,10 +3,6 @@ published: true
 ---
 
 
-
-![Datapoint](/images/datapoint.PNG)
-
-
 Data, more data and even more data. You hear that data is the new oil. You hear about data privacy, data leak and a hundred other words suffixed to data. But when you work with data for a living, you start getting an insider peek into this world. You see the internals of why the hype exists and in my nascent stages of working in this industry, I can safely conclude that It truly is worth the hype.
 
 However there are other pressing concerns here that don't get enough attention. We speculate (in fear?) that robots with human or super human level intelligence will dominate us in the future. That's looks far from possible in the current landscape. But, what looks more likely is that we will be dominated by emotionless, automated systems designed by humans who are racing to maximize their single-minded goals of profitability or efficiency. Whether this is right or wrong is another debate altogether. But it is starting to grow strong in existence and will soon be ubiquitous. 
