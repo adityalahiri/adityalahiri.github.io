@@ -3,9 +3,6 @@ published: true
 ---
 
 
-
-![Datapoint](/images/dine.png)
-
 Even if you have been living under a rock for the past few weeks, you surely know about the pandemic that has turned our lives
 upside down. The negative impacts of the same are innumerable and have been discussed and consumed at length now. However, 
 people and organizations have also been stepping up during this time to provide some much needed relief measures. Subscription
