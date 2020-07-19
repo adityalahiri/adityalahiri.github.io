@@ -17,7 +17,7 @@ I went for a trek in 2016. I get flashes of it while reading this book. The book
 If you have not, you will still love this and go for one later when the world reopens. 
 Written by the author of the famous "Into The Wild", this is the author's account of events
 that took place during an Everest attempt. It is riveting, engaging and you will not want to put it down once you pick it up. And you'll be googling the
-names of the folks in the book out of curiousity too!
+names of the folks in the book out of curiosity too!
 
 # When Breath Becomes Air
 
@@ -29,7 +29,7 @@ you get past the intial 20-30% of this book, you will want to finish it in one s
 
 # The Courage To Be Disliked
 
-A book written as a dialogue between a philosopher and a youth. The philosopher practices Aldreian physcology. The main tenet being that you are in control
+A book written as a dialogue between a philosopher and a youth. The philosopher practices Adlreian physcology. The main tenet being that you are in control
 of how you react to a situtation and all human problems are interpersonal problems. 
 It is hilarious at times because the youth reacts and asks questions that you might in real life. It is a self help book like no
 other. It backs up what it preaches using well fleshed out arguments. And the dialogue form of writing is a first for me and is what makes it a must read!
