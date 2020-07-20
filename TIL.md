@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 20/7/20
+
+* Tried Plotly with Django for the first time.
+* Read [this article from Google Research](https://ai.googleblog.com/2015/08/the-reusable-holdout-preserving.html) to know about a better way of keeping hold out test data.
+
 ## 19/7/20
 
 * Used Pytorch's Captum explainability tool's web UI for the first time. Neat!
