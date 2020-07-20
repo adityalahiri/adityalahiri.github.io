@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 19/7/20
+
+* Used Pytorch's Captum explainability tool's web UI for the first time. Neat!
+
 ## 18/7/20
 
 * Created a binary tree using Level Order in Python for the first time!
