@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 21/7/20
+
+* Recorded my paper's video for presentation at KDD '20. Covid normal!
+
 ## 20/7/20
 
 * Tried Plotly with Django for the first time.
