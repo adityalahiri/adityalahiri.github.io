@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 22/7/20
+
+* Generalised DL models that do a lot of stuff vs Deterministic task specific packages? I prefer the latter for now
+
 ## 21/7/20
 
 * Recorded my paper's video for presentation at KDD '20. Covid normal!
