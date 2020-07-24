@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+*Prediction != Inference*
 
 For a long time, I used to employ the words "Prediction" and "Inference" interchangeably. I still do sometimes. Heck, industry leaders like [Microsoft](https://azuredata.microsoft.com/articles/ebd95ec0-1eae-44a3-90f5-c11f5c916d15) do it.
 But I think now we need to accept that there is a clear demarcation between the two. Let's see what the folks who wrote *An Introduction To Statistical Learning* 
