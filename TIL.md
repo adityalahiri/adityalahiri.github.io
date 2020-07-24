@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 23/7/20
+
+* Please use arguments in functions to reduce code duplication. For different handling of one line depending on case, do not write a new function!
+
 ## 22/7/20
 
 * Generalised DL models that do a lot of stuff vs Deterministic task specific packages? I prefer the latter for now
