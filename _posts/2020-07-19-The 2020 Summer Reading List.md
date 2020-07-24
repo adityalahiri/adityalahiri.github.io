@@ -44,7 +44,7 @@ comes up. If you are feeling not so good lately, do go over this. It is not a lo
 If you want to know what I have been reading, click on the "Books" tab above! And please Stay safe! 
 
 <script src="https://utteranc.es/client.js"
-        repo="arrayslayer.github.io"
+        repo="arrayslayer/arrayslayer.github.io"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
