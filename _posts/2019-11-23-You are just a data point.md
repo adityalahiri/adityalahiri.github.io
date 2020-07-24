@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-
+* Are you a row? *
 
 Data, more data and even more data. You hear that data is the new oil. You hear about data privacy, data leak and a hundred other words suffixed to data. But when you work with data for a living, you start getting an insider peek into this world. You see the internals of why the hype exists and in my nascent stages of working in this industry, I can safely conclude that It truly is worth the hype.
 
