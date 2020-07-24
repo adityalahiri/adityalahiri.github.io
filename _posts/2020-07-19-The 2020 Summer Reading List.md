@@ -2,7 +2,7 @@
 published: true
 ---
 
-Covid '19 implies Stay At Home which in turn implies LOTS of time to read LOTS of books. Here's a diverse reading list for the summer of 2020.
+*Covid '19 implies Stay At Home which in turn implies LOTS of time to read LOTS of books. Here's a diverse reading list for the summer of 2020.*
 
 # Trillion Dollar Coach
 
