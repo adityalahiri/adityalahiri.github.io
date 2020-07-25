@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 24/7/20
+
+* N/A
+
 ## 23/7/20
 
 * Please use arguments in functions to reduce code duplication. For different handling of one line depending on case, do not write a new function!
