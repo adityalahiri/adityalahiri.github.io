@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 25/7/20
+
+* Tried fast-pages by fast-ai.
+* Watched [this very morally confusing talk](https://www.youtube.com/watch?v=BaNZ-TMGN3E) on tech companies, capitalism and higher Maslow's needs by Alain de Botton
+
 ## 24/7/20
 
 * N/A
