@@ -28,7 +28,7 @@ be better of by writing a regular expression to capture monetary entities or jus
 <br />
 
 ![Works](/images/NER_success1.png)
-*This works as the ORG entity is detected for Apple.*
+*This works as the ORG entity is detected for Apple here.*
 <br />
 <br />
 <br />
