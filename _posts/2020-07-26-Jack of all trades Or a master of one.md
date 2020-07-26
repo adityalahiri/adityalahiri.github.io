@@ -33,7 +33,7 @@ be better of by writing a regular expression to capture monetary entities or jus
 <br />
 <br />
 
-![Fails](/images/NER_fail.png)
+![Fails](/images/NER_fail1.png)
 *But this does not. We come up empty after a simple restructure*
 <br />
 <br />
