@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 26/7/20
+
+* N/A
+
 ## 25/7/20
 
 * Tried fast-pages by fast-ai.
