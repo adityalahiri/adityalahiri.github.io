@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 27/7/20
+
+* UI/UX is a big part of explainability. And its difficult to get right!
+
 ## 26/7/20
 
 * N/A
