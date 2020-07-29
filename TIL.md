@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 28/7/20
+
+* Spedning some time to decouple your script into functions when you have it fresh and new and understandable is worth it but there is a lot of resistance nonetheless.
+
 ## 27/7/20
 
 * UI/UX is a big part of explainability. And its difficult to get right!
