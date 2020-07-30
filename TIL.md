@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 29/7/20
+
+* The real difficulty when doing incremental changes to an existing ML/DL pipeline is not being sure what else it would break. The need for unit tests
+in ML pipelines is one that has to be solved like unit tests do for software.
+
 ## 28/7/20
 
 * Spedning some time to decouple your script into functions when you have it fresh and new and understandable is worth it but there is a lot of resistance nonetheless.
