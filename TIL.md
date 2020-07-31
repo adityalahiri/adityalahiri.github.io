@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 30/7/20
+
+* Started using MLFlow to tract ML experiments for the first time!
+
 ## 29/7/20
 
 * The real difficulty when doing incremental changes to an existing ML/DL pipeline is not being sure what else it would break. The need for unit tests
