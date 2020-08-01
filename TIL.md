@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 1/8/20
+
+* N/A
+
+## 31/7/20
+
+* Read [this paper](https://arxiv.org/pdf/2006.12302.pdf) on using GAN to make LIME more robust which is published in KDD 20 Adversarial Learning Workshop.
+
 ## 30/7/20
 
 * Started using MLFlow to tract ML experiments for the first time!
