@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 2/8/20
+
+* Fixed a reproducibility issue in a framework by adding seeds for numpy and torch everywhere. There's got to be a better way to do this?!
+
 ## 1/8/20
 
 * N/A
