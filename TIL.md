@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 4/8/20
+
+* Read the section on Logistic Regression from Intro to Statistical Learning to get a detailed refresher!
+
 ## 3/8/20
 
 * Read a paper called [Born Again Tree Ensembles](https://arxiv.org/pdf/2003.11132.pdf) from ICML'20. Super neat idea to represent ensembles like Random Forests with one interpretable tree!
