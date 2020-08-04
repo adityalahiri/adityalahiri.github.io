@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 3/8/20
+
+* Read a paper called [Born Again Tree Ensembles](https://arxiv.org/pdf/2003.11132.pdf) from ICML'20. Super neat idea to represent ensembles like Random Forests with one interpretable tree!
+
 ## 2/8/20
 
 * Fixed a reproducibility issue in a framework by adding seeds for numpy and torch everywhere. There's got to be a better way to do this?!
