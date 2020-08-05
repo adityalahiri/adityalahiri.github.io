@@ -1,6 +1,12 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 5/8/20
+
+* Came across this pre-print book on [Data Feminism](https://data-feminism.mitpress.mit.edu/). Very powerful!
+* When stuck with basic ideas in a complex project, it helps to go back and read a seminal book that focuses on basics. Also, it is important to read
+with awareness and at the same time not in a way so as to be looking for answers. Reading freely often allows the answers to strike naturally when the moment comes.
+
 ## 4/8/20
 
 * Read the section on Logistic Regression from Intro to Statistical Learning to get a detailed refresher!
