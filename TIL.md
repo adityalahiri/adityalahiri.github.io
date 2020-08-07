@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 7/8/20
+
+* Published a [blog post on LIME](https://arrayslayer.gitbook.io/paw/why-should-i-trust-you-explaining-the-predictions-of-any-classifier-lime) on my paper a week website!
+
+## 6/8/20
+
+* NA
+
 ## 5/8/20
 
 * Came across this pre-print book on [Data Feminism](https://data-feminism.mitpress.mit.edu/). Very powerful!
