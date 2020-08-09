@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 8/8/20
+
+* N/A
+
 ## 7/8/20
 
 * Published a [blog post on LIME](https://arrayslayer.gitbook.io/paw/why-should-i-trust-you-explaining-the-predictions-of-any-classifier-lime) on my paper a week website!
