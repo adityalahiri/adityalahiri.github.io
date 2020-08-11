@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 11/9/20
+
+* Found out that there exist Nan and -Nan in C++14. Pretty crazy.
+
 ## 10/8/20
 
 * Worked on understanding the paper , Born Again Decision Trees
