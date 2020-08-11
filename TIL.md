@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 10/8/20
+
+* Worked on understanding the paper , Born Again Decision Trees
+
+## 9/8/20
+
+* N/A
+
 ## 8/8/20
 
 * N/A
