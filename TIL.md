@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 13/9/20
+
+* Learnt that [Normalizer in sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.normalize.html) works on a sample by sample basis by making the sample have a unit norm. So, the fit() function is basically useless here but the API documentation still does it. Also, this is the reason why it does not have an inverse transform function. 
+
 ## 12/9/20
 
 * Attended [Panel Discussion on Model Explainability](https://www.youtube.com/watch?v=B2QBnVnbt7A&utm_source=TWiML+Main&utm_campaign=feae9c95c3-EMAIL_CAMPAIGN_2020_08_11_07_22&utm_medium=email&utm_term=0_68279d0830-feae9c95c3-410869746) hosted by TwimlAI
