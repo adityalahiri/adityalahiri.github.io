@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 14/9/20
+
+* Made a first pass through the paper [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf)
+
 ## 13/9/20
 
 * Learnt that [Normalizer in sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.normalize.html) works on a sample by sample basis by making the sample have a unit norm. So, the fit() function is basically useless here but the API documentation still does it. Also, this is the reason why it does not have an inverse transform function. 
