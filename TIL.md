@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 15/9/20
+
+* NA
+
 ## 14/9/20
 
 * Made a first pass through the paper [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf)
