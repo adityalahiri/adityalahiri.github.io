@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 17/9/20
+
+* Started reading a NEURips 2018 tutorial on [adversarial robustness](https://adversarial-ml-tutorial.org/introduction/). It is so good.
+
 ## 16/9/20
 
 * NA
