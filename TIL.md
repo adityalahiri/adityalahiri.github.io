@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 18/9/20
+
+* Watched [this overview of Adversarial ML](https://www.youtube.com/watch?v=sucqskXRkss) by Ian Goodfellow at ICLR 19
+
 ## 17/9/20
 
 * Started reading a NEURips 2018 tutorial on [adversarial robustness](https://adversarial-ml-tutorial.org/introduction/). It is so good.
