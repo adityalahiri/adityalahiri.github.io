@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 19/9/20
+
+* Understood the paper [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf) better to start writing its summary.
+
 ## 18/9/20
 
 * Watched [this overview of Adversarial ML](https://www.youtube.com/watch?v=sucqskXRkss) by Ian Goodfellow at ICLR 19
