@@ -1,39 +1,43 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
-## 19/9/20
+## 20/8/20
+
+* Read [this very detailed and insightful article](https://www.jeremyjordan.me/testing-ml/) on testing ML frameworks and models
+
+## 19/8/20
 
 * Understood the paper [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf) better to start writing its summary.
 
-## 18/9/20
+## 18/8/20
 
 * Watched [this overview of Adversarial ML](https://www.youtube.com/watch?v=sucqskXRkss) by Ian Goodfellow at ICLR 19
 
-## 17/9/20
+## 17/8/20
 
 * Started reading a NEURips 2018 tutorial on [adversarial robustness](https://adversarial-ml-tutorial.org/introduction/). It is so good.
 
-## 16/9/20
+## 16/8/20
 
 * NA
 
-## 15/9/20
+## 15/8/20
 
 * NA
 
-## 14/9/20
+## 14/8/20
 
 * Made a first pass through the paper [Robust and Stable Black Box Explanations](https://proceedings.icml.cc/static/paper_files/icml/2020/5945-Paper.pdf)
 
-## 13/9/20
+## 13/8/20
 
 * Learnt that [Normalizer in sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.normalize.html) works on a sample by sample basis by making the sample have a unit norm. So, the fit() function is basically useless here but the API documentation still does it. Also, this is the reason why it does not have an inverse transform function. 
 
-## 12/9/20
+## 12/8/20
 
 * Attended [Panel Discussion on Model Explainability](https://www.youtube.com/watch?v=B2QBnVnbt7A&utm_source=TWiML+Main&utm_campaign=feae9c95c3-EMAIL_CAMPAIGN_2020_08_11_07_22&utm_medium=email&utm_term=0_68279d0830-feae9c95c3-410869746) hosted by TwimlAI
 
-## 11/9/20
+## 11/8/20
 
 * Found out that there exist Nan and -Nan in C++14. Pretty crazy.
 
