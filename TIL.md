@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 21/8/20
+
+* Looked at [Google's What If tool](https://github.com/PAIR-code/what-if-tool) for visualizing model explanations and fairness.
+
 ## 20/8/20
 
 * Read [this very detailed and insightful article](https://www.jeremyjordan.me/testing-ml/) on testing ML frameworks and models
