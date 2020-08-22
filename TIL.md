@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 22/8/20
+
+* NA
+
 ## 21/8/20
 
 * Looked at [Google's What If tool](https://github.com/PAIR-code/what-if-tool) for visualizing model explanations and fairness.
