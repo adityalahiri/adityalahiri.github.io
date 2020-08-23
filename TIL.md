@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 23/8/20
+
+* Attended [Adversarial Attacks and Defenses: Frontiers, Advances and Practice Tutorial](https://sites.google.com/view/kdd-2020-attack-and-defense) at KDD 20
+
 ## 22/8/20
 
 * NA
