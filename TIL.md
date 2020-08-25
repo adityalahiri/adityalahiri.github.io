@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 24/8/20
+
+* Attended & Presented at [KDD Workshop on ML In Finance](https://sites.google.com/view/kdd-mlf-2020/home?authuser=0)
+
 ## 23/8/20
 
 * Attended [Adversarial Attacks and Defenses: Frontiers, Advances and Practice Tutorial](https://sites.google.com/view/kdd-2020-attack-and-defense) at KDD 20
