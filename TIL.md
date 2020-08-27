@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 26/8/20
+
+* Attended Hands On Tutorial: Intelligible and Explainable Machine Learning: Best Practices and Practical Challenges at KDD 2020. Learnt about EBMs, an interpretable boosting algorithm and [interpret ml library](http://interpret.ml/)
+
 ## 25/8/20
 
 * Attended Research Track Oral Presentations: Interpretable Models at KDD 2020
