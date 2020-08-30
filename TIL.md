@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 29/8/20
+
+* NA
+
+## 28/8/20
+
+* Read the paper on [Accurate Intelligible Models with Pairwise Interactions(GA²M )](https://www.cs.cornell.edu/~yinlou/papers/lou-kdd13.pdf)
+
 ## 27/8/20
 
 * Read the paper on [Interpret ML](https://arxiv.org/abs/1909.09223)
