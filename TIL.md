@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 1/9/20
+
+* Learnt about git reset, stash and resolving BIG merge conflicts in real life setting,again.
+
 ## 31/8/20
 
 * NA
