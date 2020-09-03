@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 2/9/20
+
+* Used MLFlow end to end in real life.Super convenient!
+
 ## 1/9/20
 
 * Learnt about git reset, stash and resolving BIG merge conflicts in real life setting,again.
