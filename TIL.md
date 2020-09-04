@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 3/9/20
+
+* Tried implementing adversarial training for a linear model in pytorch
+
 ## 2/9/20
 
 * Used MLFlow end to end in real life.Super convenient!
