@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 5/9/20
+
+* NA
+
 ## 4/9/20
 
 * Read the paper [Global Explanations of Neural Networks](https://arxiv.org/pdf/1902.02384.pdf)
