@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 7/9/20
+
+* Read [this](https://arxiv.org/pdf/2001.09219.pdf) paper on how explanations can help humans annotate better. Combines Active Learning + Explainability + HCI
+
 ## 6/9/20
 
 * NA
