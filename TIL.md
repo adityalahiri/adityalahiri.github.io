@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 8/9/20
+
+* Read about Online learning of Decision Trees.
+* Came across this amazing library for on online learning. [Scikit-multiflow](https://scikit-multiflow.github.io/)
+
 ## 7/9/20
 
 * Read [this](https://arxiv.org/pdf/2001.09219.pdf) paper on how explanations can help humans annotate better. Combines Active Learning + Explainability + HCI
@@ -646,10 +651,4 @@ N/A
 
 * If stuck between too many little fixes, just start all over again! Far more efficient.
 * Discovered Google's [diff_match_patch](https://github.com/google/diff-match-patch) to find diff, match and patch (:P) text.
-* Appreciating the need to write quality generalised tests for modules! Avoid hard coding as much as you can.
-
-## 9/4/20
-
-* To get to end of line in VI, command mode then $
-* PDFs can be opened in Jupyter Lab!
-* Discovered [this](https://explosion.ai/demos/displacy) cool application of what we learned in Compilers course !
+* Appreciating the need to write quality generalised tests for modules! Avoid hard coding as much as you 
