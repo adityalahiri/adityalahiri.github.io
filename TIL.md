@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 10/9/20
+
+* Finding relevant metrics to run experiments for is hard!
+
 ## 9/9/20
 
 * Came across [this cool webiste](https://aideadlin.es/) for keeping track of conference deadlines.
