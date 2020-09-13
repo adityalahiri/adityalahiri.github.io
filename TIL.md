@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 12/9/20
+
+* NA
+
+## 11/9/20
+
+* Think long and hard about whether the feature you are adding is even needed by people you are building it for, and if it makes logical sense.
+
 ## 10/9/20
 
 * Finding relevant metrics to run experiments for is hard!
