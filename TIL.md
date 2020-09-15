@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 14/9/20
+
+* Learnt about a number of new methods to learn rules from data via [this](https://rviews.rstudio.com/2020/05/21/modern-rule-based-models/) article.
+
 ## 13/9/20
 
 * NA
