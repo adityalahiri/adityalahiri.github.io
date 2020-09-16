@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 15/9/20
+
+* Difficult to decide which ideas one should implement and verify that they work & which one should they discard purely on theoretical grounds. Fine line.
+
 ## 14/9/20
 
 * Learnt about a number of new methods to learn rules from data via [this](https://rviews.rstudio.com/2020/05/21/modern-rule-based-models/) article.
