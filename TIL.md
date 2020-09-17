@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 17/9/20
+
+* Went over Gradient Boosting and AdaBoost in detail after a long time. Nice refresher!
+
+## 16/9/20
+
+* Difficult to make off the shelf DL based libraries work well for your use case since so many hyperparameters are not available for you to change directly. Have to dive in the source code. Why so many parameters?!
+
 ## 15/9/20
 
 * Difficult to decide which ideas one should implement and verify that they work & which one should they discard purely on theoretical grounds. Fine line.
