@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 19/9/20
+
+* NA
+
+## 18/9/20
+
+* Had a discussion about how Data Mining and Modelling can be used to distill information from millions of PubMed articles to give a starting point for reusing drugs.
+
 ## 17/9/20
 
 * Went over Gradient Boosting and AdaBoost in detail after a long time. Nice refresher!
