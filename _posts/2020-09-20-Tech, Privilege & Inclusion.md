@@ -2,7 +2,7 @@
 published: true
 ---
 
-**Why being in tech comes from a position of privilege, and how we should collectively be inclusive despite it.**
+Why being in tech comes from a position of privilege, and how we should collectively be inclusive despite it.
 
 Ever heard of the White Man's privilege? This is what Wikipedia has to say about it-
 
