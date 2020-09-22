@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 21/9/20
+
+* Went across [this wholesome paper](https://www.nist.gov/system/files/documents/2020/08/17/NIST%20Explainable%20AI%20Draft%20NISTIR8312%20%281%29.pdf) by a US Goverment organisation that surveys explainability and ties it up with humans.
+* The scary Kwargs is just a dict :)
+
 ## 20/9/20
 
 * NA
