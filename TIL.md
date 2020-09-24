@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 24/9/20
+
+* NA
+
 ## 23/9/20
 
 * Came across [this new library](https://github.com/whylabs/whylogs-python) for doing data profiling. USP->Scalable
