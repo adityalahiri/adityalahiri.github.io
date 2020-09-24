@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 23/9/20
+
+* Came across [this new library](https://github.com/whylabs/whylogs-python) for doing data profiling. USP->Scalable
+
 ## 22/9/20
 
 * Learnt to use the Google Sheets API and used it get data from a google sheet and make a static webpage out of it!
