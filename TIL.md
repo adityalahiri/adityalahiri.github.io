@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 26/9/20
+
+* Learnt how to automatically update a google sheet when responses in another one come via forms.
+
+## 25/9/20
+
+* NA
+
 ## 24/9/20
 
 * NA
