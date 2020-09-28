@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 27/9/20
+
+* Read [this paper](https://arxiv.org/abs/1807.00595) that combines logic programming with explainability.
+
 ## 26/9/20
 
 * Learnt how to automatically update a google sheet when responses in another one come via forms.
