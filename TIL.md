@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 28/9/20
+
+* Disappointing when you see that some academic researchers do not release even a bare-bones working code for their papers. Not even the older papers!
+
 ## 27/9/20
 
 * Read [this paper](https://arxiv.org/abs/1807.00595) that combines logic programming with explainability.
