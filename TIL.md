@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 29/9/20
+
+* Installed a library, got an error, raised [an issue](https://github.com/Trusted-AI/AIX360/issues/104), realized they merged a fix minutes ago, made those changes, and stuff worked. God bless open source!
+
 ## 28/9/20
 
 * Disappointing when you see that some academic researchers do not release even a bare-bones working code for their papers. Not even the older papers!
