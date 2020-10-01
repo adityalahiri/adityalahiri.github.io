@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+# 30/9/20
+
+* Came across [this paper](http://proceedings.mlr.press/v97/wei19a/wei19a.pdf) on a new strong interpretable models that uses rules in Generalised Linear Model setting.
+
 ## 29/9/20
 
 * Installed a library, got an error, raised [an issue](https://github.com/Trusted-AI/AIX360/issues/104), realized they merged a fix minutes ago, made those changes, and stuff worked. God bless open source!
