@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 6/10/20
+
+* Used Submodular Pick for SHAP
+
+## 5/10/20
+
+* Came across rephrase.ai that uses GANS for making advertising videos!
+
 ## 4/10/20
 
 * NA
