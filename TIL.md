@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 8/10/20
+
+* Learnt the basics of open banking. A big wave is coming!
+
 ## 7/10/20
 
 * Why does it always come down to the last day of deadline for paper submissions? The dream is to get it done a few days before and watch.
