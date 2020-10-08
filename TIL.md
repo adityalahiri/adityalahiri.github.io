@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 7/10/20
+
+* Why does it always come down to the last day of deadline for paper submissions? The dream is to get it done a few days before and watch.
+
 ## 6/10/20
 
 * Used Submodular Pick for SHAP
