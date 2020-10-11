@@ -1,6 +1,18 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 11/10/20
+
+* NA
+
+## 10/10/20
+
+* NA
+
+## 9/10/20
+
+* NA
+
 ## 8/10/20
 
 * Learnt the basics of open banking. A big wave is coming!
