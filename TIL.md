@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 12/10/20
+
+* Came across [Comp-syn](https://github.com/comp-syn) by a senior of mine. Expresses words as colors! Fascinating.
+
 ## 11/10/20
 
 * NA
