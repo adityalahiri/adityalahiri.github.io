@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 13/10/20
+
+* Need to learn sed, awk and other unix terminal commands to efficiently do analysis over GBs of csv files. Been googling for too long.
+
 ## 12/10/20
 
 * Came across [Comp-syn](https://github.com/comp-syn) by a senior of mine. Expresses words as colors! Fascinating.
