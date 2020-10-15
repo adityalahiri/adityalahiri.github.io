@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 14/10/20
+
+* Read the paper [Explainable ML in deployment](https://arxiv.org/pdf/1909.06342.pdf). Amazing work that interviews orgs about their challenges and uses of XAI.
+* Came across [Partnership on AI](https://www.partnershiponai.org/). A non profit that works on ethical aspects of AI.
+
 ## 13/10/20
 
 * Need to learn sed, awk and other unix terminal commands to efficiently do analysis over GBs of csv files. Been googling for too long.
