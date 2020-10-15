@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 15/10/20
+
+* Used gitingore irl for first time. Hid annoying .pyc files.
+
 ## 14/10/20
 
 * Read the paper [Explainable ML in deployment](https://arxiv.org/pdf/1909.06342.pdf). Amazing work that interviews orgs about their challenges and uses of XAI.
