@@ -7,7 +7,7 @@ A daily log of little things I learn pertaining to Computer Science and AI/ML.
 
 ## 16/10/20
 
-* Wrote [paper sumaary](https://adityalahiri.gitbook.io/paw/explainable-machine-learning-in-deployment) for [Explainable ML in deployment](https://arxiv.org/pdf/1909.06342.pdf).
+* Wrote [paper summary](https://adityalahiri.gitbook.io/paw/explainable-machine-learning-in-deployment) for [Explainable ML in deployment](https://arxiv.org/pdf/1909.06342.pdf).
 
 ## 15/10/20
 
