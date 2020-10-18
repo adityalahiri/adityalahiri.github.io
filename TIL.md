@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 18/10/20
+
+* Tried out making audio versions of paper summaries in podcast form. Decent first results.
+
 ## 17/10/20
 
 * NA
