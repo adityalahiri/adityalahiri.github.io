@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 20/10/20
+
+* Came across [this survey paper on explainability](https://arxiv.org/pdf/2010.09337.pdf) by Christoph Molner of [interpretable ml book](https://christophm.github.io/interpretable-ml-book/) fame.
+
 ## 19/10/20
 
 * NA
