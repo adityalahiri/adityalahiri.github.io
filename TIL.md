@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 21/10/20
+
+* There are so many ways to find feature importance in trees(cover, weight, gain) that if you torture them long enough, you will get the importance levels you want to see. Need one metric.
+
 ## 20/10/20
 
 * Came across [this survey paper on explainability](https://arxiv.org/pdf/2010.09337.pdf) by Christoph Molner of [interpretable ml book](https://christophm.github.io/interpretable-ml-book/) fame.
