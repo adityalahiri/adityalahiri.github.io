@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 22/10/20
+
+* NA
+
 ## 21/10/20
 
 * There are so many ways to find feature importance in trees(cover, weight, gain) that if you torture them long enough, you will get the importance levels you want to see. Need one metric.
