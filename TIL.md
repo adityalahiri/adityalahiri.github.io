@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 24/10/20
+
+* NA
+
+## 23/10/20
+
+* Need some better way to understand why running the same algorithm with same parameters twice leads to different results. Some visual tool that tracks differences?
+
 ## 22/10/20
 
 * NA
