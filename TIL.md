@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 26/10/20
+
+* Sometimes best way to solve a bug is to start again from scratch rolling back all changes.
+
 ## 25/10/20
 
 * NA
