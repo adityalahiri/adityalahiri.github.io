@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 28/10/20
+
+* Came across [this article](https://www.wadhwaniai.org/2020/10/27/ml-system-re-design/) on designing code-bases for research projects.
+
 ## 27/10/20
 
 * Float double interconversions are messy and lead to random-non reproducible results. Have to be careful!
