@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 29/10/20
+
+* Read [this paper](https://arxiv.org/pdf/2010.13764.pdf) that looks at Interpretability-Accuracy tradeoff from a statistical lens of ERM.
+
 ## 28/10/20
 
 * Came across [this article](https://www.wadhwaniai.org/2020/10/27/ml-system-re-design/) on designing code-bases for research projects.
