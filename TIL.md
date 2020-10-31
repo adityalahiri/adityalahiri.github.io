@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 31/10/20
+
+* Attended multiple talks in explainable AI in [IEEE Deeptech.AI](http://cs.ieeebangalore.org/ieee-deeptech-ai-2020/) conference. Got to listen to a great Human in the Loop perspective of Explainable AI from Prof.Aswhin!
+
+## 30/10/20
+
+* NA
+
 ## 29/10/20
 
 * Read [this paper](https://arxiv.org/pdf/2010.13764.pdf) that looks at Interpretability-Accuracy tradeoff from a statistical lens of ERM.
