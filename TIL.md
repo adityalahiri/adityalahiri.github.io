@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 1/10/20
+
+* NA
+
 ## 31/10/20
 
 * Attended multiple talks in explainable AI in [IEEE Deeptech.AI](http://cs.ieeebangalore.org/ieee-deeptech-ai-2020/) conference. Got to listen to a great Human in the Loop perspective of Explainable AI from Prof.Aswhin!
