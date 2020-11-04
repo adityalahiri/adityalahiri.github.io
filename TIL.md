@@ -1,15 +1,15 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
-## 3/10/20
+## 3/11/20
 
 * Non commutatitive property of float/double addition can cause a lot of reproducibility issues, esp. in multi-threaded or or multi-core systems.
 
-## 2/10/20
+## 2/11/20
 
 * When class imbalance is too high, model the system as a regression problem using probabilities, instead as a classification problem. Finally, threshold probabilities to get class.
 
-## 1/10/20
+## 1/11/20
 
 * NA
 
