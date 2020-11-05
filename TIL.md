@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 4/11/20
+
+* Came across [this paper](https://arxiv.org/pdf/2009.06797.pdf) which studies how competition affects ML models. SUper interesting!
+* Came to know what tooltip means in visualisation world. It's what you see when you hover over a particular part.
+
 ## 3/11/20
 
 * Non commutatitive property of float/double addition can cause a lot of reproducibility issues, esp. in multi-threaded or or multi-core systems.
