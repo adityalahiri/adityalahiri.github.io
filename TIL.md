@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 5/11/20
+
+*  If you are thinking about whether you should setup that meeting to discuss the issue which you've been stuck on for days, then do it. Extra pairs of eyes ALWAYS help.
+
 ## 4/11/20
 
 * Came across [this paper](https://arxiv.org/pdf/2009.06797.pdf) which studies how competition affects ML models. SUper interesting!
