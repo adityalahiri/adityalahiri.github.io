@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 6/11/20
+
+* NA
+
 ## 5/11/20
 
 *  If you are thinking about whether you should setup that meeting to discuss the issue which you've been stuck on for days, then do it. Extra pairs of eyes ALWAYS help.
