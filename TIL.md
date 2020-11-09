@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 8/11/20
+
+* I came to know about Vowpal Wabbit library which is used to setup fast baseline models via [this twitter thread and its response](https://twitter.com/sharad24sc/status/1325809341983682560) by my friend!
+
 ## 7/11/20
 
 * Watched [this documentary](https://www.youtube.com/watch?v=M85UvH0TRPc&ab_channel=DocumentaryStorm) on Aaron Swartz-RSS,CC License,YC,Reddit,And so much more.
