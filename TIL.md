@@ -1,6 +1,15 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 10/11/20
+
+* Read [this article](https://darwin-ai.medium.com/beyond-explainability-quantifying-the-trustworthiness-of-a-neural-network-105ff7183ca6
+) that summarizes papers which suggest new metrics for assessing confidence of a model. Very intuitive and effective!
+
+## 9/11/20
+
+* NA
+
 ## 8/11/20
 
 * I came to know about Vowpal Wabbit library which is used to setup fast baseline models via [this twitter thread and its response](https://twitter.com/sharad24sc/status/1325809341983682560) by my friend!
