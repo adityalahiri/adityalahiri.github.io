@@ -1,6 +1,12 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 11/11/20
+
+* Logistic Regression's interaction with scaling, regularisation and class weights is so complicated. Need to understand the interactions in much more detail!
+* [This](https://www.youtube.com/watch?v=gBWLm6Sx1WI&ab_channel=CadburyCelebrations
+) brilliant use of AI for social good.
+
 ## 10/11/20
 
 * Read [this article](https://darwin-ai.medium.com/beyond-explainability-quantifying-the-trustworthiness-of-a-neural-network-105ff7183ca6
