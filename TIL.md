@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 12/11/20
+
+* Came to know about this export text function in sklearn tree that exports the tree as plaintext. Handy!
+
 ## 11/11/20
 
 * Logistic Regression's interaction with scaling, regularisation and class weights is so complicated. Need to understand the interactions in much more detail!
