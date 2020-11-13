@@ -1,9 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 13/11/20
+
+* Scrolling is always a bad idea in UI/UX graphs.
+* Read [this great article](https://www.technologyreview.com/2020/11/12/1011944/artificial-intelligence-replication-crisis-science-big-tech-google-deepmind-facebook-openai/) on how ML reproducibility is a major issue and so is the big influence of tech giants in ML research.
+
 ## 12/11/20
 
-* Came to know about this export text function in sklearn tree that exports the tree as plaintext. Handy!
+* Came to know about [this export text function](https://scikit-learn.org/stable/modules/generated/sklearn.tree.export_text.html#sklearn.tree.export_text) in sklearn tree that exports the tree as plaintext. Handy!
 
 ## 11/11/20
 
