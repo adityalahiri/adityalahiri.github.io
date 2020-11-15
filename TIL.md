@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 14/11/20
+
+* NA
+
 ## 13/11/20
 
 * Scrolling is always a bad idea in UI/UX graphs.
