@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 17/11/20
+
+* Came across [this library](https://github.com/ElementAI/synbols) that allows you to generate many kinds of synthetic data for rapid experimentation. It is
+a part of [this NeurIPS 20 paper](https://arxiv.org/abs/2009.06415).
+
 ## 16/11/20
 
 * NA
