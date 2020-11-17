@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 16/11/20
+
+* NA
+
 ## 15/11/20
 
 * You can convert Pandas DataFrames to LATEX tables, using to_latex(). What??!
