@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 18/11/20
+
+* Making an algorithm useful IRL>>>>Creating the algorithm in the first place.
+
 ## 17/11/20
 
 * Came across [this library](https://github.com/ElementAI/synbols) that allows you to generate many kinds of synthetic data for rapid experimentation. It is
