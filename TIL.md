@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 19/11/20
+
+* I found a big after writing and running functional test for the feature. Systems exist and survive because they work. Do it even if it feels meh.
+
 ## 18/11/20
 
 * Making an algorithm useful IRL>>>>Creating the algorithm in the first place.
