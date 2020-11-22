@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 21/11/20
+
+* Came across [this new explainable model]( https://medium.com/riselab/making-decision-trees-accurate-again-explaining-what-explainable-ai-did-not-abb73e285f22
+) that uses a combination of Decision Trees and Neural Networks.
+
 ## 20/11/20
 
 * Brilliant [report](https://www.ukfinance.org.uk/policy-and-guidance/reports-publications/trust-context-and-regulation-achieving-more-explainable-ai-financial-services
