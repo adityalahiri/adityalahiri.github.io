@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 24/11/20
+
+* When writing first version of code, always put clear TO-DOs of ways you can think of making it cleaner/more optimized, else it will never happen.
+
+## 23/11/20
+
+* NA
+
 ## 22/11/20
 
 * NA
