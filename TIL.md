@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 25/11/20
+
+* After building an initial working algorithm, the fastest way to improve/understand more on how to apply it, is to run it on a middle sized real world 
+use case. Too small and it might not scale, too big and it will consume too much time to iterate quickly.
+
 ## 24/11/20
 
 * When writing first version of code, always put clear TO-DOs of ways you can think of making it cleaner/more optimized, else it will never happen.
