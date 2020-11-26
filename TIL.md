@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 26/11/20
+
+* Came across [this](https://www.shreya-shankar.com/making-ml-work/) wonderful article highlighting the real world challenges of deploying and using ML systems and
+the need for 'data-ing' besides modelling
+
 ## 25/11/20
 
 * After building an initial working algorithm, the fastest way to improve/understand more on how to apply it, is to run it on a middle sized real world 
