@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 27/11/20
+
+* Read [this](https://towardsdatascience.com/explaining-the-why-behind-consumer-spending-on-black-friday-34d5c207b471) article on how XAI can be used
+to drive "actionable insights".
+
 ## 26/11/20
 
 * Came across [this](https://www.shreya-shankar.com/making-ml-work/) wonderful article highlighting the real world challenges of deploying and using ML systems and
