@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 29/11/20
+
+* NA
+
+## 28/11/20
+
+* NA
+
 ## 27/11/20
 
 * Read [this](https://towardsdatascience.com/explaining-the-why-behind-consumer-spending-on-black-friday-34d5c207b471) article on how XAI can be used
