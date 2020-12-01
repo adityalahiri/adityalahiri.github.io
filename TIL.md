@@ -1,6 +1,12 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 30/11/20
+
+* Used bunzip2 unix command to unpack a bz file after archive manager couldn't do it due to sheer size. Reminder to self:CLI before GUI when anything is greater
+than a few megabytes.
+* To fillna with different value for different column, use a dict with key:value pair of col_name:missing_value
+
 ## 29/11/20
 
 * NA
