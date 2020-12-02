@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 1/12/20
+
+* Refreshed memory about PDP, permutation importance
+* Went through [this report](http://info.h2o.ai/rs/644-PKX-778/images/Machine%20Learning%20-%20Considerations%20for%20Fairly%20and%20Transparently%20Expanding%20Access%20to%20Credit.pdf) on fairness and explainability in lending
+
 ## 30/11/20
 
 * Used bunzip2 unix command to unpack a bz file after archive manager couldn't do it due to sheer size. Reminder to self:CLI before GUI when anything is greater
