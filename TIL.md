@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 2/12/20
+
+* Unit debugging--reduce everything to 1. 1 node, 1 test data, 1 output. Then increase the most prominent suspect and see what breaks.
+
 ## 1/12/20
 
 * Refreshed memory about PDP, permutation importance
