@@ -1,6 +1,18 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 5/12/20
+
+* NA
+
+## 4/12/20
+
+* NA
+
+## 3/12/20
+
+* Reports and rules - Every Data scientist needs a report in the end for upper management. Make it easier for them to make it. Most organizations dont need models, they need rules. 
+
 ## 2/12/20
 
 * Unit debugging--reduce everything to 1. 1 node, 1 test data, 1 output. Then increase the most prominent suspect and see what breaks.
