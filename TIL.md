@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 7/12/20
+
+* Learnt that nohup stands for ignoring the HUP signal! Which allows it to run programs in background. Such as running jupyter notebook without blocking your terminal.
+
 ## 6/12/20
 
 * NA
