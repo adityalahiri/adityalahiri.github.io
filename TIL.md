@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 10/12/20
+
+* NA
+
 ## 9/12/20
 
 * Used PySpark ml lib for the first time to run on big data.
