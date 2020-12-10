@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 9/12/20
+
+* Used PySpark ml lib for the first time to run on big data.
+
 ## 8/12/20
 
 * If methods do not scale then they are eventually futile.
