@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 12/12/20
+
+* NA
+
+## 11/12/20
+
+* You can almost always improve any techinque by making it more efficient in runtime and performance and contribute.
+
 ## 10/12/20
 
 * NA
