@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 14/12/20
+
+* I was wondering that if the concept of shapely values from economics is adapted to SHAP and explainability, what are some other ideas like that?
+Turns out the whole foundations of post hoc explainability using surrogates is borrowed from mathematics and optimization. Learned it through the description of Julia's surrogate framework [here](https://github.com/SciML/Surrogates.jl).
+
 ## 13/12/20
 
 * NA
