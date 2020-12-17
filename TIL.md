@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 16/12/20
+
+* One under appreciated advantage of working in a multi national company is getting the confidence to speak to people outside of your country and feeling good that yes, you do have similar competence and resources. Opens so many doors outside of work too.
+
+## 15/12/20
+
+* In python, if a variable outside a loop has same name as one inside, then always local one is used AND changed/modified too.
+
 ## 14/12/20
 
 * I was wondering that if the concept of shapely values from economics is adapted to SHAP and explainability, what are some other ideas like that?
