@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 17/12/20
+
+* I came across this massive project called cyc ( pronounced psych ) that aims to provide "common sense" to AI. It is quite a thing. Here's [a wired article](https://www.wired.com/2016/03/doug-lenat-artificial-intelligence-common-sense-engine/) on it.
+
 ## 16/12/20
 
 * One under appreciated advantage of working in a multi national company is getting the confidence to speak to people outside of your country and feeling good that yes, you do have similar competence and resources. Opens so many doors outside of work too.
