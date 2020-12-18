@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 18/12/20
+
+* I learned how to get the stats and structure of a PySpark decision tree in a neat pandas df!!!Save the model, load the model as parquet file then do toPandas()!
+
 ## 17/12/20
 
 * I came across this massive project called cyc ( pronounced psych ) that aims to provide "common sense" to AI. It is quite a thing. Here's [a wired article](https://www.wired.com/2016/03/doug-lenat-artificial-intelligence-common-sense-engine/) on it.
