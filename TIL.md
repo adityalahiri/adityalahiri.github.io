@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 19/12/20
+
+* Use module_name.__file__ to see which path the module is being loaded from in python.
+
 ## 18/12/20
 
 * I learned how to get the stats and structure of a PySpark decision tree in a neat pandas df!!!Save the model, load the model as parquet file then do toPandas()!
