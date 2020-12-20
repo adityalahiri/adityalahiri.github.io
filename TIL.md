@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 20/12/20
+
+* Came across the Reproducibility checklist for Machine Learning [here](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) by Prof.Joelle Pinaeu.
+* Learned that dictionary.pop("key",default_value) can be used if the key doesn't exist to return default_value. Better than a try, except.
+
 ## 19/12/20
 
 * Use module_name.__file__ to see which path the module is being loaded from in python.
