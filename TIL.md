@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 21/12/20
+
+* Sort a list of dictionaries by any key of the dictionary by using key=lambda x: x[key] in the sorted function.
+
 ## 20/12/20
 
 * Came across the Reproducibility checklist for Machine Learning [here](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) by Prof.Joelle Pinaeu.
