@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 23/12/20
+
+* NA
+
 ## 22/12/20
 
 * Read [this paper](https://arxiv.org/pdf/2009.11023.pdf) on how feature attribution based methods and rules based methods when used individually do not explain the same features and lead to ambiguity. They also recommend in the end that using them together can give a better picture!
