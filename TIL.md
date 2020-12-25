@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 25/12/20
+
+* Revisited Djikstra's algorithm. How did he think of it?So neat.
+
+## 24/12/20
+
+* NA
+
 ## 23/12/20
 
 * NA
