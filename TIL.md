@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 27/12/20
+
+* Looked at a few sliding window/two pointer problems.
+
 ## 26/12/20
 
 * Started learning basic JS from [FreeCodeCamp](https://www.freecodecamp.org/learn/).
