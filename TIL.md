@@ -1,6 +1,15 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 29/12/20
+
+* Most techniques that work for standard datasets do not work within reasonable time limits on large datasets. More efforts could be made to make exisiting
+methods scalable if possible, instead of a little delta change in them to create a new method that suffers from same scale drawbacks.
+
+## 28/12/20
+
+* Went through a few binary search problems.
+
 ## 27/12/20
 
 * Looked at a few sliding window/two pointer problems.
