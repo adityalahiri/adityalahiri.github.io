@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 31/12/20
+
+* NA
+
+## 30/12/20
+
+* NA
+
 ## 29/12/20
 
 * Most techniques that work for standard datasets do not work within reasonable time limits on large datasets. More efforts could be made to make exisiting
