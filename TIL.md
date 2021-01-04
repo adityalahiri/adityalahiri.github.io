@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 4/1/21
+
+* If you are using jupyter on a server, and if you want to render an html file in the notebook, the file needs to be in your current directory from where notebook was opened. It does not have access to any upper level directory for security reasons.
+
+## 3/1/21
+
+* NA
+
 ## 2/1/21
 
 * NA
