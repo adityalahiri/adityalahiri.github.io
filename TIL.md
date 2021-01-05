@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 5/1/21
+
+* If you convert a double to string using to_string in c++, it leads to loss of precision. Never use it. Using stringstream, instead.
+
 ## 4/1/21
 
 * If you are using jupyter on a server, and if you want to render an html file in the notebook, the file needs to be in your current directory from where notebook was opened. It does not have access to any upper level directory for security reasons.
