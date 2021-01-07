@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 7/1/21
+
+* I had a chat with a startup founder in the parking space and I never thought you could think this way about a seemingly mundane thing like parking. They
+are optimally placed,paid,real estate with lots of room for automation!
+
 ## 6/1/21
 
 * Came across [this](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) cool jupyter book which is made for cultural analytics in python.
