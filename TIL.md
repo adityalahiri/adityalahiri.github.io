@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 6/1/21
+
+* Came across [this](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) cool jupyter book which is made for cultural analytics in python.
+* Went through [this paper](https://arxiv.org/abs/2003.06005) by IBM on multi-level explanations.
+
 ## 5/1/21
 
 * If you convert a double to string using to_string in c++, it leads to loss of precision. Never use it. Using stringstream, instead.
