@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 9/1/21
+
+* NA
+
+## 8/1/21
+
+* It gets difficult to work on a project when all 3 people are from different locations,and all remote. Not a fan of total remote work right now.
+
 ## 7/1/21
 
 * I had a chat with a startup founder in the parking space and I never thought you could think this way about a seemingly mundane thing like parking. They
