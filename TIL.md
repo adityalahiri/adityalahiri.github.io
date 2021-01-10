@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+
+## 10/1/21
+
+* In python, to split on multiple possible characters, first replace those characters in the string with a common character and then split on that!
+
 ## 9/1/21
 
 * NA
