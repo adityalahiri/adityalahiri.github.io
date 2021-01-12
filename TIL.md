@@ -1,6 +1,12 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 12/1/21
+
+* I went through [this](https://www.shreya-shankar.com/8d5c6ec070babe7c23d3d5b68384a8bd/retrospective.pdf) brilliant article by Shreya Shankar on her experiences with predictive modelling.
+
+* I came across [this](https://community.fico.com/s/explainable-machine-learning-challenge?tabset-3158a=2) challenge and dataset on explainability by FICO to run some of my tests on.
+
 ## 11/1/21
 
 * NA
