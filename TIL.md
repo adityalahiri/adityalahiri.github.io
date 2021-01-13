@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 13/1/21
+
+* I worked on a public dataset and tried to get insights using EDA and did some modelling too. Hadn't done this in a while. I reflected on my college days where we used to do this week in and week out as part of assignments in ML courses. College was good!
+
 ## 12/1/21
 
 * I went through [this](https://www.shreya-shankar.com/8d5c6ec070babe7c23d3d5b68384a8bd/retrospective.pdf) brilliant article by Shreya Shankar on her experiences with predictive modelling.
