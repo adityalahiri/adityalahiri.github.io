@@ -1,6 +1,12 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 14/1/21
+
+* Read [this](https://www.wkiri.com/research/papers/wagstaff-MLmatters-12.pdf) wonderful article on what kind of ML research we should aspire to do and what are the issues with current practices.
+* Came across [this](https://github.com/fat-forensics/fat-forensics) library that has implementations of multiple key algorithms and evaluation techniques pertaining to ethical AI. 
+* Revisited GMMs from [this](https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html) tutorial. 
+
 ## 13/1/21
 
 * I worked on a public dataset and tried to get insights using EDA and did some modelling too. Hadn't done this in a while. I reflected on my college days where we used to do this week in and week out as part of assignments in ML courses. College was good!
