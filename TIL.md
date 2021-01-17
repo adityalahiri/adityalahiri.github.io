@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 16/1/21
+
+* NA
+
+## 15/1/21
+
+* Camae across [this](http://dukedatasciencefico.cs.duke.edu/models/) solution to the FICO explainability challenege by folks at Duke! 
+
 ## 14/1/21
 
 * Read [this](https://www.wkiri.com/research/papers/wagstaff-MLmatters-12.pdf) wonderful article on what kind of ML research we should aspire to do and what are the issues with current practices.
