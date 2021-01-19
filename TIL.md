@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 19/1/21
+
+* I carried out an experiment on synthetic datasets using GMMs. I learnt a fair bit during this exercise about a lot of fundamentals!
+
+## 18/1/21
+
+* Learnt how to set weights for class imbalanced cases in DT for PySpark. Instead of a simple classwise weight mapping dictionary, you need a column for each data point giving its weight. So, assign each row a weight based on its class. Perhaps, this is necessary because of the distributed nature of computation.
+
 ## 17/1/21
 
 * NA
