@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 20/1/21
+
+* If your experiment is too complicated to explain as table caption in one sentence, then think hard if you really can't do with a simpler experiment. Simple is tougher. Simple is better.
+
 ## 19/1/21
 
 * I carried out an experiment on synthetic datasets using GMMs. I learnt a fair bit during this exercise about a lot of fundamentals!
