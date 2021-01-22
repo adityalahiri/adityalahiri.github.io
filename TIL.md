@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 21/1/21
+
+* A low page limit constraint actually helped polish the paper, remove the unnecessary fluff and re-position the idea. Constraints help!
+
 ## 20/1/21
 
 * If your experiment is too complicated to explain as table caption in one sentence, then think hard if you really can't do with a simpler experiment. Simple is tougher. Simple is better.
