@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 22/1/21
+
+* NA
+
 ## 21/1/21
 
 * A low page limit constraint actually helped polish the paper, remove the unnecessary fluff and re-position the idea. Constraints help!
