@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 23/1/21
+
+* I used heaps in python for the first time to solve sort and combine k sorted linked lists.
+
 ## 22/1/21
 
 * NA
