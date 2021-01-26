@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 25/1/21
+
+* Can't package installation and dependency management be done better in python? :(
+
+## 24/1/21
+
+* NA
+
 ## 23/1/21
 
 * I used heaps in python for the first time to solve sort and combine k sorted linked lists.
