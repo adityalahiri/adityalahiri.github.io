@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 26/1/21
+
+* Came across [this](https://montrealethics.ai/wp-content/uploads/2020/10/State-of-AI-Ethics-Oct-2020.pdf) report on the state of AI ethics.
+
 ## 25/1/21
 
 * Can't package installation and dependency management be done better in python? :(
