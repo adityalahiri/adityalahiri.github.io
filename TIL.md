@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 27/1/21
+
+* I learned about the nonlocal keyword in python and used it too.
+* I remembered that int(x,base) has parameter base to define binary using 2, octa using 8, etc.
+
 ## 26/1/21
 
 * Came across [this](https://montrealethics.ai/wp-content/uploads/2020/10/State-of-AI-Ethics-Oct-2020.pdf) report on the state of AI ethics.
