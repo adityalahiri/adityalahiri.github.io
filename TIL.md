@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 28/1/21
+
+* NA
+
 ## 27/1/21
 
 * I learned about the nonlocal keyword in python and used it too.
