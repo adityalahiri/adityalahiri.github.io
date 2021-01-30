@@ -1,6 +1,11 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 29/1/21
+
+* Learnt how to sort a list of tuples in python first in some order(asc,desc) on first value and if first value is same,then in opposite order on second value.
+Pass the key in sorted function as lambda x:(-x[0],x[1]). Sorts, in descending order of x[0] then if x[0] is same, in asc order of x[1].
+
 ## 28/1/21
 
 * NA
