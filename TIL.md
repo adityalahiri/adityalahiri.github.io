@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 31/1/21
+
+* NA
+
+## 30/1/21
+
+* NA
+
 ## 29/1/21
 
 * Learnt how to sort a list of tuples in python first in some order(asc,desc) on first value and if first value is same,then in opposite order on second value.
