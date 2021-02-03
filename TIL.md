@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 3/1/21
+
+* Came across [Twitter Explorer](https://github.com/pournaki/twitter-explorer) to analyze tweets easily.
+
 ## 2/1/21
 
 * If you are facing issues in any open source library and want to know WHY it is happening, a search in the issues tab of the library's repo on github is the best way to do it!
