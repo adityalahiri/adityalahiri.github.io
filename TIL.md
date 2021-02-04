@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 4/1/21
+
+* Came across [this detailed](https://www.youtube.com/watch?v=oBt53YbR9Kk&ab_channel=freeCodeCamp.org) freeCodeCamp resource on DP.
+
 ## 3/1/21
 
 * Came across [Twitter Explorer](https://github.com/pournaki/twitter-explorer) to analyze tweets easily.
