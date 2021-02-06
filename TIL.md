@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 5/1/21
+
+* NA
+
 ## 4/1/21
 
 * Came across [this detailed](https://www.youtube.com/watch?v=oBt53YbR9Kk&ab_channel=freeCodeCamp.org) freeCodeCamp resource on DP.
