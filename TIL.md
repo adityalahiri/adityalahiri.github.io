@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 7/1/21
+
+* NA
+
+## 6/1/21
+
+* NA
+
 ## 5/1/21
 
 * NA
