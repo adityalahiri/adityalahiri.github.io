@@ -1,39 +1,39 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
-## 9/1/21
+## 9/2/21
 
 * Will there be an alternative to latex for research papers? There hopefully will be especially for applied ML/DS kinds.
 
-## 8/1/21
+## 8/2/21
 
 * Learnt hat xgboost uses memory heavily when depth increases. Also depends on number of bins, number of columns.
   
-## 7/1/21
+## 7/2/21
 
 * NA
 
-## 6/1/21
+## 6/2/21
 
 * NA
 
-## 5/1/21
+## 5/2/21
 
 * NA
 
-## 4/1/21
+## 4/2/21
 
 * Came across [this detailed](https://www.youtube.com/watch?v=oBt53YbR9Kk&ab_channel=freeCodeCamp.org) freeCodeCamp resource on DP.
 
-## 3/1/21
+## 3/2/21
 
 * Came across [Twitter Explorer](https://github.com/pournaki/twitter-explorer) to analyze tweets easily.
 
-## 2/1/21
+## 2/2/21
 
 * If you are facing issues in any open source library and want to know WHY it is happening, a search in the issues tab of the library's repo on github is the best way to do it!
 
-## 1/1/21
+## 1/2/21
 
 * Learnt about Kadane's algorithm.
 
