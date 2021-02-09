@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 9/1/21
+
+* Will there be an alternative to latex for research papers? There hopefully will be especially for applied ML/DS kinds.
+
+## 8/1/21
+
+* Learnt hat xgboost uses memory heavily when depth increases. Also depends on number of bins, number of columns.
+  
 ## 7/1/21
 
 * NA
