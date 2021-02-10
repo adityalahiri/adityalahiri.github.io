@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 10/2/21
+
+* Read [this paper](https://arxiv.org/pdf/2101.08758.pdf) on evaluating XAI techniques.
+
 ## 9/2/21
 
 * Will there be an alternative to latex for research papers? There hopefully will be especially for applied ML/DS kinds.
