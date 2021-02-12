@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 11/2/21
+
+* Implementing binary search is [crazy](https://en.wikipedia.org/wiki/Binary_search_algorithm#Implementation_issues).
+
 ## 10/2/21
 
 * Read [this paper](https://arxiv.org/pdf/2101.08758.pdf) on evaluating XAI techniques.
