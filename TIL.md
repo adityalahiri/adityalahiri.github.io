@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 12/2/21
+
+* Came across [this repo](https://github.com/satwikkansal/wtfpython) which showcases strange behaviour of python snippets.
+
 ## 11/2/21
 
 * Implementing binary search is [crazy](https://en.wikipedia.org/wiki/Binary_search_algorithm#Implementation_issues).
