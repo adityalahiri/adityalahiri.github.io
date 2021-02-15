@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 14/2/21
+
+* NA
+
+## 13/2/21
+
+* NA
+
 ## 12/2/21
 
 * Came across [this repo](https://github.com/satwikkansal/wtfpython) which showcases strange behaviour of python snippets.
