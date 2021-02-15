@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 15/2/21
+
+* Floating point adddition is not commutative.
+
 ## 14/2/21
 
 * NA
