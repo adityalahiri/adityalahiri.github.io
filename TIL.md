@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 16/2/21
+
+* Understood the concept of ROC-AUC curves using [StatQuest's youtube video](https://www.youtube.com/watch?v=4jRBRDbJemM&ab_channel=StatQuestwithJoshStarmer).
+
 ## 15/2/21
 
 * Floating point adddition is not commutative.
