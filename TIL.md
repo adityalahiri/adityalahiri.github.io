@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 17/2/21
+
+* Refreshed memory about tf-df, skipgram, cbow and glove.
+
 ## 16/2/21
 
 * Understood the concept of ROC-AUC curves using [StatQuest's youtube video](https://www.youtube.com/watch?v=4jRBRDbJemM&ab_channel=StatQuestwithJoshStarmer).
