@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 18/2/21
+
+* Attended a paper presentation on [this](https://arxiv.org/abs/1908.01755) paper which uses Rashomon effect and analyses it to find simpler and more interpretable models while maintaining predictive power.
+
 ## 17/2/21
 
 * Refreshed memory about tf-df, skipgram, cbow and glove.
