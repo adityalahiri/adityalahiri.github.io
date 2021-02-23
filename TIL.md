@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 22/2/21
+
+* Learnt the basics of react (props,components) using Linkedin Learning.
+
 ## 21/2/21
 
 * NA
