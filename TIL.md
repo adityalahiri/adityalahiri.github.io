@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 24/2/21
+
+* Solved an interesting algo question of searching a value in sorted 2D matrix. Looked complicated but had simple solution.
+
 ## 23/2/21
 
 * Refreshing Linear Algebra basics by starting [this Coursera course](https://www.coursera.org/learn/linear-algebra-machine-learning).
