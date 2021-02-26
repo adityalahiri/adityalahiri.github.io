@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 26/2/21
+
+* Failed to code up vanilla linear regression in first try :( . Need to keep practicing core ML and stay in touch.
+
+## 25/2/21
+
+* NA
+
 ## 24/2/21
 
 * Solved an interesting algo question of searching a value in sorted 2D matrix. Looked complicated but had simple solution.
