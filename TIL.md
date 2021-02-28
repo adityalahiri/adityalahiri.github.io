@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 28/2/21
+
+* Read [this paper](https://cs.uwaterloo.ca/~ppoupart/publications/autoencoders/batchnorm_entropic_autoencoders.pdf) on turning determintic AutoEncoders to Generative models using Batch Norm in the middle.
+
+## 27/2/21
+
+* NA
+
 ## 26/2/21
 
 * Failed to code up vanilla linear regression in first try :( . Need to keep practicing core ML and stay in touch.
