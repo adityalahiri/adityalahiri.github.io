@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 1/3/21
+
+* Read [this paper](https://arxiv.org/abs/1712.02250) on why chatbots give small gibberish outputs by drawing parallels with machine translation-one to many mapping of outputs causes confusion.
+
 ## 28/2/21
 
 * Read [this paper](https://cs.uwaterloo.ca/~ppoupart/publications/autoencoders/batchnorm_entropic_autoencoders.pdf) on turning determintic AutoEncoders to Generative models using Batch Norm in the middle.
