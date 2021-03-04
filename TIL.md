@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 3/3/21
+
+* NA
+
+## 2/3/21
+
+* Learnt about a few interesting projects such as intelligent autonomous driving and sports anayltics using reverse RL. ML,DL,AI,DS whatever, never ceases to fascinate. 
+
 ## 1/3/21
 
 * Read [this paper](https://arxiv.org/abs/1712.02250) on why chatbots give small gibberish outputs by drawing parallels with machine translation-one to many mapping of outputs causes confusion.
