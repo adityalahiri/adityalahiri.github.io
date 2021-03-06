@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 5/3/21
+
+* Couldn't recall the interal implementation of heaps. Need to re-read.
+
+## 4/3/21
+
+* NA
+
 ## 3/3/21
 
 * NA
