@@ -1,6 +1,14 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 7/3/21
+
+* Started watching [this FaCCT tutoria](https://www.youtube.com/watch?v=iRhzmkmjgYo&t=238s&ab_channel=AssociationforComputingMachinery%28ACM%29) on how to balance accuracy and transparency of ML systems.
+
+## 6/3/21
+
+* NA
+
 ## 5/3/21
 
 * Couldn't recall the interal implementation of heaps. Need to re-read.
