@@ -1,6 +1,10 @@
 A daily log of little things I learn pertaining to Computer Science and AI/ML.
 (Inspired by [Seth Godin](https://seths.blog/))
 
+## 8/3/21
+
+* Applying explainability techniques to concept drift problems specifically is an interesting and not much explore area. Starting to think on that!
+
 ## 7/3/21
 
 * Started watching [this FaCCT tutoria](https://www.youtube.com/watch?v=iRhzmkmjgYo&t=238s&ab_channel=AssociationforComputingMachinery%28ACM%29) on how to balance accuracy and transparency of ML systems.
